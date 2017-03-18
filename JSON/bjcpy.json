@@ -241,42 +241,42 @@
 			},
 			{
 				"internal_id": 35,
-				"id": 1,
+				"id": A,
 				"type": 2,
 				"name": "Traditional Mead",
 				"description": "See the Introduction to Mead Guidelines for detailed descriptions of standard mead characteristics, an explanation of standard terms, and entering instructions."
 			},
 			{
 				"internal_id": 36,
-				"id": 2,
+				"id": B,
 				"type": 2,
 				"name": "Fruit Mead",
 				"description": "A mead made with fruit is called a Melomel, although some melomels also have other names (cyser, pyment). We are introducing category names for certain types of melomels based on the variety of fruit used; these are more entry categories than actual styles. We selected different names for the category and subcategories to avoid the confusion of using the same names in different ways.\nSee the Introduction to Mead Guidelines for detailed descriptions of standard mead characteristics, an explanation of standard terms, and entering instructions.\nRefer to Category M1 descriptions for additional detail on the character to be expected from dry, semi-sweet and sweet meads. Use those guidelines to judge distinctions between the various sweetness levels. Judging meads from dry to sweet is recommended as the primary ordering, with strength being the secondary ordering criterion."
 			},
 			{
 				"internal_id": 37,
-				"id": 3,
+				"id": C,
 				"type": 2,
 				"name": "Spiced Mead",
 				"description": "See the Introduction to Mead Guidelines for detailed descriptions of standard mead characteristics, an explanation of standard terms, and entering instructions.\nRefer to Category M1 descriptions for additional detail on the character to be expected from dry, semi-sweet and sweet meads. Use those guidelines to judge distinctions between the various sweetness levels. Judging meads from dry to sweet is recommended as the primary ordering, with strength being the secondary ordering criterion."
 			},
 			{
 				"internal_id": 38,
-				"id": 4,
+				"id": D,
 				"type": 2,
 				"name": "Specialty Mead",
 				"description": "See the Introduction to Mead Guidelines for detailed descriptions of standard mead characteristics, an explanation of standard terms, and entering instructions.\nRefer to Category M1 descriptions for additional detail on the character to be expected from dry, semi-sweet and sweet meads. Use those guidelines to judge distinctions between the various sweetness levels. Judging meads from dry to sweet is recommended as the primary ordering, with strength being the secondary ordering criterion."
 			},
 			{
 				"internal_id": 39,
-				"id": 1,
+				"id": A,
 				"type": 3,
 				"name": "Standard Cider and Perry",
 				"description": "The styles represented in this category are the principal established styles. “New World” is simply a name change from the “Common” of earlier versions.\nThere are known styles not represented here. In particular, Spanish (Asturian and Basque) does not yet have a style definition because there is presently insufficient appreciation and understanding, as well as a lack of commercial examples of known quality for reference. \nIn the case of a cider made to a style not explicitly represented here, it should be entered in the closest applicable category. The first decision is whether the cider was made with apples with significant tannin content that gives the cider noticeable astringency or bitterness. If not, it should be entered as a New World Cider. If so, the choice is between the English and French sub-categories; this decision should be based on whether the cider tends more toward sweet, rich, somewhat fruity (French) or drier and more austere (English). For perry of a non-represented style, the decision is, as above, based on tannin content. If in doubt, enter as New World Perry."
 			},
 			{
 				"internal_id": 40,
-				"id": 2,
+				"id": B,
 				"type": 3,
 				"name": "Specialty Cider and Perry",
 				"description": "Specialty cider/perry includes beverages made with added flavorings (spices and/or other fruits), those made with substantial amounts of sugar-sources to increase starting gravities, and the beverage made from a combination of apple and pear juice (sometimes called pider). \nThe same general characteristics and fault descriptions apply to specialty ciders as to standard ciders (preceding category), with the exception of added ingredients allowed."
@@ -285,7 +285,7 @@
 		"subcategorias": [
 			{
 				"category": 1,
-				"id": 1,
+				"id": A,
 				"name": "American Light Lager",
 				"impression": "Altamente carbonatada y de cuerpo muy ligero, son lagers casi sin sabor diseñadas para ser consumidas extremadamente frías. Muy refrescantes y saciadoras de la sed.",
 				"aroma": "Bajo a ningún aroma a malta, aunque si está presente puede ser percibido como a grano, dulce o como a maíz. Aroma a lúpulo de ligero a ausente, si está presente, con un carácter especiado o floral. Aunque un carácter de fermentación limpio es deseable, un poco de carácter a levadura (particularmente una ligera frutosidad a manzana) no es una falta. Un ligero DMS no es una falta.",
@@ -306,7 +306,7 @@
 			},
 			{
 				"category": 1,
-				"id": 2,
+				"id": B,
 				"name": "American Lager",
 				"impression": "Una lager muy pálida, altamente carbonatada, de cuerpo ligero y bien atenuada, con un perfil de sabor muy neutro y bajo amargor. Servidas muy frías, pueden ser muy refrescantes y saciadoras de la sed.",
 				"aroma": "Bajo a ningún aroma a malta, que si está presente puede ser percibido como a grano, dulce o como a maíz. Aroma a lúpulo de ligero a ninguno, con una presencia especiada o floral. Mientras que un carácter de fermentación limpio es deseable, un poco de carácter a levadura (particularmente una ligera frutosidad a manzana) no es una falta. Un ligero DMS tampoco es una falta.",
@@ -327,7 +327,7 @@
 			},
 			{
 				"category": 1,
-				"id": 3,
+				"id": C,
 				"name": "Cream Ale",
 				"impression": "Una limpia, bien atenuada y sabrosa lager americana “para cortar el césped”. Fácil de tomar y refrescante, pero con más cuerpo que las típicas lagers americanas.",
 				"aroma": "Notas de malta media a media-baja con un dulce aroma parecido al maíz. Están permitidos bajos niveles de DMS, pero no son necesarios. Aroma a lúpulo medio-bajo a ninguno, que puede ser de cualquier variedad, sin embargo las notas florales, especiadas o herbales son las más comunes. En resumen, un aroma sutil donde no domina ni la malta ni el lúpulo. Ésteres frutales bajos son opcionales.",
@@ -348,7 +348,7 @@
 			},
 			{
 				"category": 1,
-				"id": 4,
+				"id": D,
 				"name": "American Wheat Beer",
 				"impression": "Refrescantes cervezas de trigo que muestran más carácter a lúpulo y menos carácter a levadura que sus primas alemanas. Un carácter de fermentación limpio permite sabores a trigo como a pan, masa o granos que se complementan con los sabores a lúpulo y un amargor más alto que sus cualidades a levadura.",
 				"aroma": "Bajo a moderado carácter de trigo, grano, pan o masa. Un dulzor maltoso ligero a moderado es aceptable. Los ésteres pueden ser de moderados a ninguno, aunque deberían reflejar cepas de levadura relativamente neutras; a banana es inapropiado. El aroma a lúpulo puede ser de bajo a moderado y puede tener características cítricas, especiadas, florales o frutales. Sin fenoles a clavo de olor.",
@@ -369,7 +369,7 @@
 			},
 			{
 				"category": 2,
-				"id": 1,
+				"id": A,
 				"name": "International Pale Lager",
 				"impression": "Una lager pálida altamente atenuada sin sabores fuertes, típicamente bien equilibrada y altamente carbonatada. Servidas frías, son refrescantes y saciadoras de sed.",
 				"aroma": "Bajo a medio-bajo aroma a malta, que puede ser un poco a grano o ligeramente dulce a maíz. El aroma a lúpulo puede ser de muy bajo a medio con una presencia especiada o floral. Aunque generalmente un perfil de fermentación limpio es deseado, bajos niveles de carácter de la levadura (como una ligera frutosidad a manzana) no son una falta. Una ligera cantidad de DMS o aroma a maíz no es una falta.",
@@ -390,7 +390,7 @@
 			},
 			{
 				"category": 2,
-				"id": 2,
+				"id": B,
 				"name": "International Amber Lager",
 				"impression": "Una bien atenuada y maltosa lager ámbar con una interesante cualidad a caramelo o tostado con amargor restringido. Usualmente bastante bien atenuada, a menudo con cualidades a adjuntos. Suave, con carácter lager fácilmente bebible.",
 				"aroma": "Bajo a moderado aroma a malta que puede ser a grano, con un muy bajo a moderado dulzor a caramelo o a malta tostada. El aroma a lúpulo puede variar de bajo a nulo, con un leve carácter floral o especiado. Tiene un perfil de lager limpio. Un leve aroma a DMS o maíz es aceptable.",
@@ -411,7 +411,7 @@
 			},
 			{
 				"category": 2,
-				"id": 3,
+				"id": C,
 				"name": "International Dark Lager",
 				"impression": "Una versión más oscura y quizás más dulce de la Lager Pálida Internacional con un poco más de cuerpo y sabor, pero igualmente restringida en amargor. El bajo amargor deja a la malta como elemento de sabor primario y los bajos niveles de lúpulo aportan poco al balance general.",
 				"aroma": "Bajo a ningún aroma a malta, puede tener un ligero carácter a maíz. Medio-bajo a ningún aroma a malta tostada y caramelo. El aroma a lúpulo puede variar de ausente a ligero, con una presencia especiada o floral. Mientras que un perfil de fermentación limpio es generalmente deseado, bajos niveles de carácter a levadura (como una ligera frutosidad a manzana) no son una falta. Una ligera cantidad de DMS o aroma a maíz no son una falta.",
@@ -432,7 +432,7 @@
 			},
 			{
 				"category": 3,
-				"id": 1,
+				"id": A,
 				"name": "Czech Pale Lager",
 				"impression": "Una lager checa pálida, de cuerpo ligero, rica, refrescante, lupulada y amarga, que posee los sabores familiares de la versión más fuerte Lager Pálida Premium Checa (tipo Pilsner) pero con menos alcohol, menos cuerpo y un formato menos intenso.",
 				"aroma": "Ligera a moderada maltosidad a pan combinada con un ligero a moderado bouquet de lúpulo especiado o herbal. El equilibrio entre la malta y el lúpulo puede variar. Un bajo indicio a caramelo es aceptable. Diacetilo suave (nunca invasivo), y ligeros ésteres frutales del lúpulo son aceptables, pero no necesitan estar presentes. Sin azufre.",
@@ -453,7 +453,7 @@
 			},
 			{
 				"category": 3,
-				"id": 2,
+				"id": B,
 				"name": "Czech Premium Pale Lager",
 				"impression": "Una lager checa rica, con mucho carácter a malta y lúpulo, y con un final largo y redondeado. Compleja pero bien equilibrada y refrescante. Los sabores de malta son complejos para una cerveza tipo Pilsner y el amargor es fuerte pero limpio y sin asperezas, lo que da una impresión redondeada que la hace fácil de beber.",
 				"aroma": "Malta rica a pan, media a medio-alta, con un bouquet a lúpulo medio-bajo a medio-alto, especiado, floral o herbal, aunque el equilibrio entre la malta y el lúpulo puede variar, la interacción es rica y compleja. Suave diacetilo, muy bajos ésteres derivados del lúpulo son aceptables, pero no necesitan estar presentes.",
@@ -474,7 +474,7 @@
 			},
 			{
 				"category": 3,
-				"id": 3,
+				"id": C,
 				"name": "Czech Amber Lager",
 				"impression": "Una lager ámbar checa orientada a la malta, con un carácter a lúpulo que puede variar de bajo a muy significativo. Los sabores a malta pueden variar un poco, dando lugar a diferentes interpretaciones que van desde pan y suave bizcocho, a dulce y algo de caramelo.",
 				"aroma": "Intensidad moderada, rico aroma a malta que puede ser a pan y a dominantes productos de Maillard o ligeramente acaramelado, como a caramelo. Carácter a lúpulo especiado, floral o herbal de moderado a ninguno. Limpio carácter lager, aunque pueden estar presentes ésteres frutados bajos (a frutas de carozo o bayas). El diacetil es opcional y puede variar de bajo a ninguno.",
@@ -495,7 +495,7 @@
 			},
 			{
 				"category": 3,
-				"id": 4,
+				"id": D,
 				"name": "Czech Dark Lager",
 				"impression": "Una rica, oscura y maltosa lager checa con un carácter tostado que puede variar desde ausente a bastante prominente. Maltosidad con un perfil de sabor interesante y complejo, con niveles variables de lupulado que proporcionan un rango de interpretaciones.",
 				"aroma": "Maltosidad rica, profunda y a veces dulce, media a medio-alta, con cualidades opcionales como a corteza de pan, tostado, nuez, refrescos de cola, frutas negras o caramelo. Características tostadas como a chocolate o café endulzado pueden variar de moderadas a ninguna para no abrumar el carácter de la malta base. Un aroma a lúpulo bajo y especiado es opcional. Pueden estar presentes un bajo diacetilo y ésteres frutales (ciruelas o bayas).",
@@ -516,7 +516,7 @@
 			},
 			{
 				"category": 4,
-				"id": 1,
+				"id": A,
 				"name": "Munich Helles",
 				"impression": "Una lager alemana limpia, maltosa, de color dorado, con un sabor a malta a grano-dulce y un final suave y seco. Lúpulos sutiles especiados, florales o herbales de contenido amargor ayudan a mantener el balance maltoso pero no dulce, lo que ayuda a que esta cerveza sea una bebida refrescante, de todos los días.",
 				"aroma": "Moderado aroma a malta a grano-dulce. Bajo a moderadamente-bajo aroma a lúpulo especiado, floral o herbal. Mientras que un aroma limpio es más deseable, una nota de fondo muy baja a DMS no es una falta. Perfil de fermentación limpio, agradable, con la malta dominando el balance. Los ejemplos más frescos tendrán más aroma a malta dulce.",
@@ -537,7 +537,7 @@
 			},
 			{
 				"category": 4,
-				"id": 2,
+				"id": B,
 				"name": "Festbier",
 				"impression": "Una lager alemana suave, limpia y pálida con un sabor maltoso moderadamente fuerte y un ligero carácter a lúpulo. Hábilmente balancea la intensidad y la tomabilidad, con una impresión de paladar y final que animan a beber. Exhibe elegantes sabores a maltas alemanas sin llegar a ser demasiado pesada o plena.",
 				"aroma": "Moderada riqueza maltosa, con un énfasis en los aromáticos-tostados, masa de pan y una impresión de dulzor. Lúpulo bajo a medio-bajo floral, herbal o especiado. La malta no debería tener una cualidad a tostado profundo, caramelo o bizcocho. Carácter limpio de fermentación lager.",
@@ -558,7 +558,7 @@
 			},
 			{
 				"category": 4,
-				"id": 3,
+				"id": C,
 				"name": "Helles Bock",
 				"impression": "Una cerveza lager alemana relativamente pálida, fuerte y maltosa con un final muy bien atenuado que mejora su tomabilidad. El carácter a lúpulo es generalmente más evidente que en otras bocks.",
 				"aroma": "Moderado a fuerte aroma a malta a grano-dulce, a menudo con una cualidad ligeramente tostada y bajos productos de Maillard. Aroma a lúpulo moderadamente bajo a ninguno, a menudo con una cualidad especiada, herbal o floral. Perfil de fermentación limpio. Los ésteres frutales deben ser de bajos a ninguno. Puede ser percibido un muy ligero alcohol. Puede tener un ligero aroma a DMS.",
@@ -579,7 +579,7 @@
 			},
 			{
 				"category": 5,
-				"id": 1,
+				"id": A,
 				"name": "German Leichtbier",
 				"impression": "Una lager alemana pálida, altamente atenuada, de cuerpo ligero, con menos alcohol y calorías que las cervezas de intensidad normal. Moderadamente amarga con sabores apreciables de malta y lúpulo, la cerveza es aún interesante de beber.",
 				"aroma": "Bajo a medio aroma a lúpulo con carácter especiado, herbal o floral. Bajo a medio-bajo aroma a grano-dulce o ligero aroma a malta como a galletas tipo cracker. Perfil de fermentación limpio.",
@@ -600,7 +600,7 @@
 			},
 			{
 				"category": 5,
-				"id": 2,
+				"id": B,
 				"name": "Kölsch",
 				"impression": "Una cerveza limpia, fresca, delicadamente balanceada, por lo general con un carácter muy sutil a frutas y lúpulos. Maltosidad suave que se conduce a lo largo hasta un final agradablemente bien atenuado y refrescante. La frescura hace una gran diferencia con esta cerveza, su carácter delicado puede desaparecer rápidamente con el tiempo. Una claridad brillante es característica.",
 				"aroma": "Bajo a muy bajo aroma a malta, con un carácter a grano-dulce. Un agradable y sutil aroma a frutas por la fermentación (manzana, cereza o pera) es aceptable, pero no siempre está presente. Un aroma a lúpulo floral, especiado o herbal es opcional pero no fuera de estilo. Algunas cepas de levadura pueden dar un ligero carácter vinoso o azufrado (esta característica también es opcional, pero no es una falta). En general, la intensidad aromática es bastante sutil pero generalmente balanceada, limpia y fresca.",
@@ -621,7 +621,7 @@
 			},
 			{
 				"category": 5,
-				"id": 3,
+				"id": C,
 				"name": "German Helles Exportbier",
 				"impression": "Una lager alemana pálida, bien balanceada que es ligeramente más fuerte que la cerveza promedio con un cuerpo moderado y carácter aromático medio a lúpulo y malta.",
 				"aroma": "Bajo a medio aroma a lúpulo, típicamente de carácter floral, especiado o herbal. Aroma a malta moderado a grano- dulce. Perfil de fermentación limpio. Una nota ligeramente azufrada al principio que se disipa luego no es un defecto, ni lo es una baja nota de fondo a DMS.",
@@ -642,7 +642,7 @@
 			},
 			{
 				"category": 5,
-				"id": 4,
+				"id": D,
 				"name": "German Pils",
 				"impression": "Una cerveza alemana amarga, de cuerpo ligero, altamente atenuada, de color dorado y fermentación baja, que exhibe una excelente retención de espuma y un elegante aroma a lúpulo floral. Chispeante, limpia y refrescante, una Pilsner Alemana que exhibe la más fina calidad de malta y lúpulo Alemán.",
 				"aroma": "Carácter rico a malta a grano-dulce, medio-bajo a bajo (a menudo con un ligero carácter a miel y una cualidad a galleta ligeramente tostado), y lúpulos distintivos especiados, herbales o florales. Perfil de fermentación limpia. Puede tener opcionalmente una ligera nota sulfurosa que proviene tanto del agua como de la levadura. Los lúpulos son de moderadamente- bajos a moderadamente-altos, pero no deben dominar totalmente la presencia de la malta. Los ejemplos unidimensionales son inferiores a las más complejas cualidades cuando se detectan todos los ingredientes. Puede tener una nota de fondo muy baja a DMS.",
@@ -663,7 +663,7 @@
 			},
 			{
 				"category": 6,
-				"id": 1,
+				"id": A,
 				"name": "Märzen",
 				"impression": "Una maltosa lager ámbar alemana, elegante, con un sabor a malta limpio, rico, a pan, tostado, restringido amargor y un final seco que alienta otra bebida. La impresión general a malta es suave, elegante y compleja, con un rico retrogusto que nunca es empalagoso o pesado.",
 				"aroma": "Moderada intensidad en aroma a malta alemana, típicamente rica, a pan, algo tostada, con ligeras notas a corteza de pan. Limpio carácter de fermentación lager. Sin aroma a lúpulo. Aromas de malta a caramelo, galletas secas, o tostados son inapropiados. Se puede detectar un muy ligero alcohol, pero nunca debe ser agudo. Una limpia y elegante riqueza de malta debe ser el aroma primario.",
@@ -684,7 +684,7 @@
 			},
 			{
 				"category": 6,
-				"id": 2,
+				"id": B,
 				"name": "Rauchbier",
 				"impression": "Una lager ámbar alemana elegante, maltosa, con un carácter a humo de madera de haya balanceado, complementario. Aroma y sabor a malta ricamente tostada, amargor restringido, con sabor a humo de bajo a alto, un perfil de fermentación limpio y un final atenuado son característicos.",
 				"aroma": "Mezcla de humo y malta, con un balance e intensidad variable. El carácter del humo de madera de haya puede ir desde sutil a bastante fuerte y puede parecer ahumada, leñosa o como a tocino. El carácter de la malta puede ser de bajo a moderado y ser algo rico, tostado o maltoso-dulce. Los componentes de malta y el humo son a menudo inversamente proporcionales (es decir, cuando aumenta el humo, disminuye la malta y viceversa). El aroma a lúpulo puede ser de muy bajo a ninguno. Limpio carácter de fermentación lager.",
@@ -705,7 +705,7 @@
 			},
 			{
 				"category": 6,
-				"id": 3,
+				"id": C,
 				"name": "Dunkles Bock",
 				"impression": "Una maltosa lager alemana, oscura, fuerte, que enfatiza las cualidades ricamente maltosas y algo tostadas de las maltas continentales sin ser dulce en el final.",
 				"aroma": "Medio a medio-alto aroma a malta rico a pan, a menudo con cantidades moderadas de ricos productos de Maillard y/o matices tostados. Prácticamente no hay aroma a lúpulo. Algo de alcohol puede ser evidente. Limpio carácter lager, aunque las maltas pueden proporcionar un leve (bajo a ninguno) carácter a frutos negros, sobre todo en los ejemplos envejecidos.",
@@ -726,7 +726,7 @@
 			},
 			{
 				"category": 7,
-				"id": 1,
+				"id": A,
 				"name": "Vienna Lager",
 				"impression": "Una lager ámbar de moderada intensidad con una maltosidad suave, afable, un moderado Una lager ámbar de moderada intensidad con una maltosidad suave, afable, un moderado\namargor y un final aun relativamente seco. El sabor a malta es limpio, rico a pan y algo tostado, con una impresión elegante derivada de las maltas base y el proceso, sin maltas especiales ni adjuntos.",
 				"aroma": "A malta moderadamente-intenso, con aromáticos tostados y de rica maltosidad. Carácter lager limpio. Aroma a lúpulo floral, especiado, que puede ser de bajo a ninguno. Un aroma significativo a caramelo o tostado es inapropiado.",
@@ -747,7 +747,7 @@
 			},
 			{
 				"category": 7,
-				"id": 2,
+				"id": B,
 				"name": "Altbier",
 				"impression": "Una cerveza alemana bien balanceada, bien atenuada, amarga pero todavía maltosa, limpia y suave, de color ámbar a cobrizo. El amargor es balanceado por la riqueza de la malta, pero la intensidad de la malta y su carácter pueden variar de moderados a altos (el amargor se incrementa con la riqueza de la malta).",
 				"aroma": "Limpio pero aún robusto y complejo aroma a malta ricamente granosa y a lúpulos especiados con moderados (de bajo a medio-bajo) ésteres frutales. El carácter a malta refleja variedades de malta base alemana, con ricas notas a pan horneado y corteza de pan tostado como a nuez. El aroma a lúpulo puede variar de moderado a bajo y puede tener un carácter a pimienta, especiado, floral, herbal o perfumado asociado a lúpulos tipo Saaz.",
@@ -768,7 +768,7 @@
 			},
 			{
 				"category": 7,
-				"id": 3,
+				"id": C,
 				"name": "Kellerbier",
 				"impression": "",
 				"aroma": "Refleja el estilo base. Típicamente tiene un carácter adicional de la levadura, con subproductos no encontrados con frecuencia en cervezas alemanas de buen acondicionamiento en frío (como diacetilo, azufre y acetaldehído).",
@@ -789,7 +789,7 @@
 			},
 			{
 				"category": 8,
-				"id": 1,
+				"id": A,
 				"name": "Munich Dunkel",
 				"impression": "Caracterizada por la intensidad, riqueza y complejidad típica de las maltas Munich más oscuras, acompañada por productos de Maillard. Sabores a corteza de pan intensos, a menudo con dejos a chocolate en los ejemplos más frescos, pero nunca a quemado, áspero o astringente. Cerveza decididamente balanceada hacia las maltas, pero aun así muy fácil de tomar.",
 				"aroma": "Dulzor profundo de maltas, rico, elegante, típicamente como a corteza de pan (a menudo pan tostado). Dejos a chocolate, nueces, caramelo y/o toffee son también aceptables, con las versiones tradicionales frescas a menudo mostrando niveles más altos de chocolate. Limpio perfil de fermentación. Es aceptable un leve aroma a lúpulo especiado, floral o herbal.",
@@ -810,7 +810,7 @@
 			},
 			{
 				"category": 8,
-				"id": 2,
+				"id": B,
 				"name": "Schwarzbier",
 				"impression": "Una lager alemana oscura, que balancea los sabores tostados pero suaves de la malta, con un moderado amargor del lúpulo. El cuerpo liviano, la sequedad y la ausencia de aspereza, quemado o de un retrogusto pesado ayudan a que esta cerveza sea bastante fácil de tomar.",
 				"aroma": "Bajo a moderado aroma a malta, con baja maltosidad dulce y/o a dejos tostados a menudo evidentes. La malta puede ser limpia y neutral o moderadamente rica y a pan, pudiendo tener un leve aroma a caramelo oscuro. El carácter torrado puede ser de alguna forma como a chocolate oscuro o café, pero nunca a quemado. Aroma a lúpulo bajo con carácter especiado, floral o herbal es opcional. Carácter limpio de la levadura, aunque son posibles algunas ligeras notas de sulfuro.",
@@ -831,7 +831,7 @@
 			},
 			{
 				"category": 9,
-				"id": 1,
+				"id": A,
 				"name": "Doppelbock",
 				"impression": "Una lager alemana fuerte, rica y muy maltosa que puede tener dos variantes, pálida u oscura. Las versiones más oscuras están más ricamente desarrolladas, con sabores más pronunciados de la malta, mientras que las versiones más pálidas tienen ligeramente más lúpulos y sequedad.",
 				"aroma": "Maltosidad muy fuerte. Las versiones más oscuras tendrán una cantidad significativa de productos de Maillard y a menudo algunos aromas tostados. Un ligero caramelo es aceptable. Las versiones más claras tendrán una fuerte presencia de malta con algunos productos de Maillard y notas tostadas. Virtualmente sin aroma a lúpulo, aunque un ligero aroma a lúpulo noble es aceptable en las versiones pálidas. Un carácter frutal moderadamente bajo (descrito como ciruela o uva) derivado de la malta puede estar presente (pero es opcional) en las versiones más oscuras. Un ligero aroma a chocolate puede estar presente en las versiones más oscuras, pero notas torradas o quemadas jamás deben estar presentes. Puede estar presente un moderado aroma a alcohol.",
@@ -852,7 +852,7 @@
 			},
 			{
 				"category": 9,
-				"id": 2,
+				"id": B,
 				"name": "Eisbock",
 				"impression": "Una lager alemana oscura, fuerte, plena, rica y maltosa, a menudo con una consistencia viscosa y sabores fuertes. Aun cuando son concentradas, el alcohol debiese ser suave y cálido, no quemante.",
 				"aroma": "Dominado por un balance entre una malta rica e intensa y cierta presencia de alcohol. Sin aroma a lúpulo. Puede tener significativos ésteres a frutas oscuras (pasas, uvas) derivados de la malta. Aromas a alcohol no deben ser ásperos ni con carácter a solvente.",
@@ -873,7 +873,7 @@
 			},
 			{
 				"category": 9,
-				"id": 3,
+				"id": C,
 				"name": "Baltic Porter",
 				"impression": "Una Porter Báltica a menudo tiene sabores a malta reminiscentes a una Porter Inglesa y el tostado restringido de una Schwarzbier, pero con una densidad inicial (OG) mayor y más alcohol que cualquiera de éstas. Muy compleja, con múltiples capas de sabores a malta y a frutos oscuros.",
 				"aroma": "Rico dulzor a malta que a menudo contiene notas a caramelo, toffee, nueces y profundo tostado y/o a licor. Alcohol complejo y perfil de ésteres de moderada intensidad, con reminiscencias a ciruelas, pasas, cerezas o grosellas, ocasionalmente con una cualidad vinosa a Oporto. Algo de carácter a malta más oscura como chocolate, café o melaza pero nunca quemado. Lúpulo ausente. Sin acidez. Muy suave.",
@@ -894,7 +894,7 @@
 			},
 			{
 				"category": 10,
-				"id": 1,
+				"id": A,
 				"name": "Weissbier",
 				"impression": "Una cerveza de trigo alemana pálida y refrescante, con alta carbonatación, final seco, sensación en boca cremosa, con notas a banana y clavo de olor producto de la levadura.",
 				"aroma": "Fenoles (usualmente clavo de olor) y ésteres frutales (típicamente banana) de moderados a fuertes. El balance y la intensidad de los componentes fenoles y ésteres pueden variar, pero en los mejores ejemplos están razonablemente balanceados y bastante prominentes. El carácter del lúpulo va de bajo a ninguno. Puede estar presente un ligero a moderado aroma a trigo (el cual se puede percibir como pan o granos), pero no otras características de la malta. Opcionales pero aceptables, los aromáticos pueden incluir ligeros a moderados toques a vainilla y/o un suave aroma a goma de mascar. Ninguna de estas características opcionales debiera ser alta o dominante, pero a menudo pueden sumar complejidad y balance.",
@@ -915,7 +915,7 @@
 			},
 			{
 				"category": 10,
-				"id": 2,
+				"id": B,
 				"name": "Dunkles Weissbier",
 				"impression": "Una cerveza de trigo alemana oscura con un distintivo carácter de levadura a banana y clavo de olor, sostenido por sabores de malta a pan tostado o caramelo. Altamente carbonatada y refrescante, con una cremosa y esponjosa textura, con un final suave que invita a beber.",
 				"aroma": "Moderados fenoles (usualmente clavo de olor) y ésteres frutales (usualmente banana). El balance y la intensidad de los componentes fenoles y ésteres puede variar, pero en los mejores ejemplos están balanceados y bastante destacados. Opcionalmente, un bajo a moderado carácter a vainilla y/o leve notas a goma de mascar pueden estar presentes, pero no deben dominar. El aroma a lúpulo va de bajo a ninguno y puede ser levemente floral, especiado o herbal. Aromas a trigo ligeros a moderados (que pueden ser percibidos como pan, masa o granos) pueden estar presentes, a menudo acompañados por aromas a caramelo, corteza de pan o maltas más sabrosas. El aroma a malta puede moderar en algo los fenoles y los ésteres.",
@@ -936,7 +936,7 @@
 			},
 			{
 				"category": 10,
-				"id": 3,
+				"id": C,
 				"name": "Weizenbock",
 				"impression": "Una ale basada en trigo, fuerte, maltosa y frutal, combinando los mejores sabores de la malta y la levadura de una Weissbier (pálida u oscura) con un rico sabor maltoso, intenso, con el cuerpo de una Dunkles Bock o Doppelbock.",
 				"aroma": "Medio-alto a alto carácter ricamente maltoso con un significativo componente a pan y granos de trigo. Las versiones más pálidas pueden tener una riqueza maltosa a pan y tostado, mientras que versiones más oscuras tienen una riqueza maltosa más profunda con una presencia significativa de productos de Maillard. Los componentes de la malta son similares a una Helles Bock en versiones pálidas (granos- dulzor-riqueza, con leve tostado) o una Dunkles Bock para las versiones más oscuras (pan-maltosidad-riqueza, altamente tostada, caramelo opcional). La levadura contribuye el carácter típico de una weizen a banana y especias (clavo de olor, vainilla), que pueden ser medio-bajos a medio-altos. Las versiones más oscuras pueden tener aromas a frutos oscuros (ciruelas, uvas, pasas). Una baja a moderada nota de alcohol es aceptable, pero no debe ser caliente ni con carácter a solvente. Sin aroma a lúpulo. La malta, levadura y alcohol aportan complejidad, atractivo y un prominente bouquet.",
@@ -957,7 +957,7 @@
 			},
 			{
 				"category": 11,
-				"id": 1,
+				"id": A,
 				"name": "Ordinary Bitter",
 				"impression": "La baja densidad, bajo nivel de alcohol y baja carbonatación hacen que esta sea una cerveza de sesión fácil de tomar. El perfil de malta puede variar en sabor e intensidad, pero nunca debe opacar la impresión de amargor general. La tomabilidad es un componente crítico del estilo.",
 				"aroma": "Bajo a moderado aroma a malta, a menudo (no siempre) con una ligera cualidad a caramelo. Complejidad de malta a pan, bizcocho o ligero tostado son comunes. Leve a moderada frutosidad. El aroma a lúpulo varía de moderado a ninguno, típicamente con carácter floral, terroso, resinoso y/o frutal. Generalmente sin diacetilo, aunque está permitido a bajos niveles.",
@@ -978,7 +978,7 @@
 			},
 			{
 				"category": 11,
-				"id": 2,
+				"id": B,
 				"name": "Best Bitter",
 				"impression": "Una cerveza de sesión llena de sabor, aun refrescante. Algunos ejemplos comerciales pueden estar más balanceados a la malta, pero esta no debe opacar la sensación general de amargor. La tomabilidad es el componente crítico de este estilo.",
 				"aroma": "Bajo a moderado aroma a malta, a menudo (no siempre) con una baja a medio-baja cualidad a caramelo. Es común una complejidad de malta a pan, bizcocho o leve tostado. Leve a moderada frutosidad. El aroma a lúpulo varía de moderado a ninguno, típicamente con carácter floral, terroso, resinoso y/o frutal. Generalmente sin diacetilo aunque está permitido a niveles muy bajos.",
@@ -999,7 +999,7 @@
 			},
 			{
 				"category": 11,
-				"id": 3,
+				"id": C,
 				"name": "Strong Bitter",
 				"impression": "Una ale inglesa amarga, de intensidad moderada a moderadamente fuerte. El balance puede ser de bastante uniforme entre la malta y el lúpulo, a algo amargo. La tomabilidad es el componente crítico de este estilo. Es un estilo bastante amplio que permite considerables interpretaciones del cervecero.",
 				"aroma": "Aroma a lúpulo moderadamente alto a moderadamente bajo, típicamente con carácter floral, terroso, resinoso y/o frutal. Aroma a malta medio a medio-alto, opcionalmente con un bajo a moderado componente de caramelo. Ésteres frutales medio-bajos a medio-altos. Generalmente sin diacetilo, aunque está permitido a niveles muy bajos.",
@@ -1020,7 +1020,7 @@
 			},
 			{
 				"category": 12,
-				"id": 1,
+				"id": A,
 				"name": "British Golden Ale",
 				"impression": "Una Bitter pálida orientada al lúpulo, de intensidad promedio a moderadamente fuerte. La tomabilidad y una cualidad refrescante son componentes críticos del estilo.",
 				"aroma": "Moderadamente bajo a moderadamente alto aroma a lúpulo de cualquier variedad, lúpulos ingleses florales, herbales o terrosos, y lúpulos cítricos americanos son los más comunes. Frecuentemente exhibirá una variedad de lúpulo. Poco o nada de aroma a malta; sin caramelo. Medio-bajo a bajo aroma frutal de los lúpulos en lugar de ésteres. Poco o nada de diacetilo.",
@@ -1041,7 +1041,7 @@
 			},
 			{
 				"category": 12,
-				"id": 2,
+				"id": B,
 				"name": "Australian Sparkling Ale",
 				"impression": "Suave y balanceada, todos los componentes se unen con intensidades similares. Sabores moderados que exhiben ingredientes australianos. Gran dimensión de sabores. Buena tomabilidad, adecuada para climas cálidos. Se basa en el carácter de la levadura.",
 				"aroma": "Aroma bastante suave, limpio, con un mix balanceado de ésteres, lúpulo, malta y levadura, todos moderadamente bajos en intensidad. Los ésteres son frecuentemente a peras y manzanas, posiblemente con un toque muy ligero de banana (opcional). Los lúpulos son terrosos, herbales o pueden mostrar características como a hierro del lúpulo Pride of Ringwood en nariz. La malta puede variar de granos neutros a moderadamente dulce, hasta sutilezas de pan; el caramelo no debería ser evidente. Los ejemplos muy frescos pueden tener una ligera nariz a levadura y sulfuro.",
@@ -1062,7 +1062,7 @@
 			},
 			{
 				"category": 12,
-				"id": 3,
+				"id": C,
 				"name": "English IPA",
 				"impression": "Una ale británica pálida, lupulada, moderadamente fuerte, muy bien atenuada, con un final seco y un aroma y sabor lupulado. Los clásicos ingredientes británicos proporcionan el mejor perfil del sabor.",
 				"aroma": "Aroma a lúpulo moderado a moderadamente-alto, floral, especiado-pimentado o cítrico a naranjas naturales son típicos. Un ligero aroma a césped por dry-hop es aceptable, pero no requerido. Una presencia a malta moderadamente- baja como a caramelo o tostado es opcional. Frutosidad baja a moderada es aceptable. Algunas versiones pueden tener notas sulfurosas, aunque este carácter no es mandatorio.",
@@ -1083,7 +1083,7 @@
 			},
 			{
 				"category": 13,
-				"id": 1,
+				"id": A,
 				"name": "Dark Mild",
 				"impression": "Una ale de sesión británica, oscura, de baja densidad, enfocada en la malta, adaptada fácilmente para beber en cantidad. Refrescante, pero sabrosa, con una amplia gama de expresiones de malta oscura o azúcar oscura.",
 				"aroma": "Bajo a moderado aroma a malta, pudiendo tener alguna frutosidad. La expresión de la malta puede tomar una amplia gama de caracteres, que puede incluir caramelo, toffee, granos, tostado, nuez, chocolate o ligeramente torrado. Poco o ningún aroma a lúpulo terreo o floral si está presente. Diacetilo muy bajo a ninguno.",
@@ -1104,7 +1104,7 @@
 			},
 			{
 				"category": 13,
-				"id": 2,
+				"id": B,
 				"name": "British Brown Ale",
 				"impression": "Una ale británica maltosa, marrón, orientada al caramelo sin los sabores tostados de una Porter.",
 				"aroma": "Ligero y dulce aroma a malta con notas de toffee, nuez o ligero chocolate, y una cualidad a caramelo ligero a pesado. Un aroma a lúpulo ligero pero atractivo, floral o terroso, puede ser evidente. Un ligero aroma frutal puede ser evidente, pero no debe dominar.",
@@ -1125,7 +1125,7 @@
 			},
 			{
 				"category": 13,
-				"id": 3,
+				"id": C,
 				"name": "English Porter",
 				"impression": "Una cerveza marrón de moderada intensidad con un restringido carácter tostado y amargor. Puede tener una gama de sabores tostados, generalmente sin cualidades quemadas, a menudo con un perfil de malta- chocolate-caramelo.",
 				"aroma": "Moderado a moderadamente-bajo aroma de malta a pan suave, bizcocho y tostado, pudiendo tener una cualidad a chocolate. También puede mostrar algo de carácter a malta sin tostar en apoyo (caramelo, nuez, como a toffee y/o dulce). Puede tener hasta un nivel moderado a lúpulos florales o terrosos. Los ésteres frutales son de moderados a ninguno. Diacetilo bajo a ninguno.",
@@ -1146,7 +1146,7 @@
 			},
 			{
 				"category": 14,
-				"id": 1,
+				"id": A,
 				"name": "Scottish Light",
 				"impression": "Una cerveza centrada en la malta, generalmente acaramelada, con quizás algunos ésteres y ocasionalmente un retrogusto a butterscotch. Lúpulos sólo para balancear y apoyar a la malta. El carácter a malta puede variar desde seco y a grano, a rico, tostado y acaramelado, pero nunca quemado, y sobre todo nunca con un carácter a humo de turba. Tradicionalmente las Ales Escocesas más oscuras a veces se acercan al color negro, pero carecen de cualquier carácter quemado o abiertamente torrado.",
 				"aroma": "Maltosidad baja a media, a menudo con sabores de migas de pan tostadas, bizcochos y galletas inglesas. Caramelo bajo a medio-bajo es admisible. Suave carácter a frutas de carozo en los mejores ejemplos. Puede tener bajo aroma a lúpulo inglés tradicional (terroso, floral, cítrico a naranja, especiado, etc.). El humo de turba es inapropiado.",
@@ -1167,7 +1167,7 @@
 			},
 			{
 				"category": 14,
-				"id": 2,
+				"id": B,
 				"name": "Scottish Heavy",
 				"impression": "Una cerveza centrada en la malta, generalmente acaramelada con quizás algunos ésteres y ocasionalmente butterscotch en el retrogusto. Lúpulos sólo para balancear y apoyar la malta. El carácter a malta puede variar de seco y a grano, a rico, tostado y acaramelado, pero nunca quemado y sobre todo nunca tiene un carácter a humo de turba.",
 				"aroma": "Baja a mediana maltosidad, a menudo con sabores a migas de pan tostadas, bizcochos de vainilla y galletas inglesas. Caramelo de bajo a medio y un bajo butterscotch es admisible. Suave carácter a frutas de carozo en los mejores ejemplos. Puede tener bajo aroma a lúpulo tradicional inglés (terroso, floral, cítrico a naranja, especiado, etc.). El humo de turba es inapropiado.",
@@ -1188,7 +1188,7 @@
 			},
 			{
 				"category": 14,
-				"id": 3,
+				"id": C,
 				"name": "Scottish Export",
 				"impression": "Una cerveza centrada en la malta, generalmente acaramelada con quizás algunos ésteres y ocasionalmente un retrogusto a butterscotch. Lúpulos sólo para balancear y apoyar la malta. El carácter a malta puede variar de seco y a grano, a rico, tostado y acaramelado, pero nunca quemado y sobre todo nunca tiene carácter a humo de turba.",
 				"aroma": "Baja a mediana maltosidad, a menudo con sabores a migas de pan tostadas, bizcochos de vainilla y galletas inglesas. Caramelo de bajo a medio y un bajo butterscotch admitido. Suave carácter a frutas de carozo en los mejores ejemplos. Puede tener bajo aroma a lúpulo tradicional inglés (terroso, floral, cítrico a naranja, especiado, etc.). El humo de turba es inapropiado.",
@@ -1209,7 +1209,7 @@
 			},
 			{
 				"category": 15,
-				"id": 1,
+				"id": A,
 				"name": "Irish Red Ale",
 				"impression": "Una pinta fácil de beber, a menudo con sabores sutiles. Ligeramente maltosa en el balance a veces con un suave dulzor inicial a caramelo/toffee, un paladar ligeramente a grano y bizcocho, y un toque de sequedad tostada en el final. Algunas versiones pueden destacar más el caramelo y el dulzor, mientras que otras favorecen el paladar a grano y sequedad tostada.",
 				"aroma": "Bajo a moderado aroma a malta, ya sea a grano neutro o con un ligero carácter a caramelo-tostado-toffee. Puede tener un carácter mantecoso muy ligero (aunque esto no es requerido). El aroma a lúpulo es bajo a ninguno, terroso o floral (por lo general ausente). Muy limpia.",
@@ -1230,7 +1230,7 @@
 			},
 			{
 				"category": 15,
-				"id": 2,
+				"id": B,
 				"name": "Irish Stout",
 				"impression": "Una cerveza negra con un sabor tostado pronunciado, a menudo similar al café. El balance puede variar desde bastante uniforme a bastante amargo, con las versiones más balanceadas teniendo un poco de dulzor a malta y las versiones amargas siendo bastante secas. Las versiones de barril normalmente son cremosas debido al nitro, pero las versiones embotelladas no tendrán este carácter derivado del servicio. El sabor tostado puede ser seco y como a café, a un tanto achocolatado.",
 				"aroma": "Típicamente domina un aroma como a café moderado; puede tener notas secundarias a chocolate oscuro ligero, cacao y/o cereales tostados. Los ésteres van de medio- bajo a ninguno. El aroma a lúpulo de bajo a ninguno, puede ser ligeramente terroso o floral, pero suele estar ausente.",
@@ -1251,7 +1251,7 @@
 			},
 			{
 				"category": 15,
-				"id": 3,
+				"id": C,
 				"name": "Irish Extra Stout",
 				"impression": "Una cerveza negra de cuerpo pleno, con un pronunciado sabor tostado, a menudo similar al café y chocolate oscuro con algo de complejidad maltosa. El balance puede variar desde moderadamente agridulce a amargo, con las versiones más equilibradas teniendo una moderada riqueza a malta y las versiones amargas siendo bastante secas.",
 				"aroma": "Moderado a moderadamente-alto aroma como a café, a menudo con ligero chocolate oscuro, cacao, galletas, vainilla y/o notas secundarias de cereales tostados. Ésteres medio- bajos a ninguno. Aroma a lúpulo bajo a ninguno, puede ser ligeramente terroso o especiado, pero está típicamente ausente. Malta y tostado dominan el aroma.",
@@ -1272,7 +1272,7 @@
 			},
 			{
 				"category": 16,
-				"id": 1,
+				"id": A,
 				"name": "Sweet Stout",
 				"impression": "Una ale muy oscura, dulce, de cuerpo pleno, ligeramente tostada, que puede sugerir café con crema o un expreso endulzado.",
 				"aroma": "Suave aroma a grano tostado, a veces con notas a café y/o chocolate. A menudo existe una impresión de dulzor cremoso. La frutosidad puede ser de baja a moderadamente- alta. Diacetilo de bajo a ninguno. Aroma a lúpulo de bajo a ninguno, con notas florales o terrosas.",
@@ -1293,7 +1293,7 @@
 			},
 			{
 				"category": 16,
-				"id": 2,
+				"id": B,
 				"name": "Oatmeal Stout",
 				"impression": "Una ale maltosa, tostada, muy oscura y de cuerpo pleno con un sabor complementario a avena. El dulzor, el equilibrio y la impresión de avena pueden variar considerablemente.",
 				"aroma": "Granos tostados leves, en general, con un carácter a café. Un dulzor maltoso puede sugerir una impresión a café y crema. La frutosidad debe ser de baja a medio-alta. Diacetilo medio-bajo a ninguno. Aroma a lúpulo medio-bajo a ninguno, terroso o floral. Un ligero aroma a grano y nuez por la avena es opcional.",
@@ -1314,7 +1314,7 @@
 			},
 			{
 				"category": 16,
-				"id": 3,
+				"id": C,
 				"name": "Tropical Stout",
 				"impression": "Una ale moderadamente fuerte, muy oscura, dulce, con sabores suavemente torrados, sin asperezas quemadas.",
 				"aroma": "Dulzor evidente, de intensidad moderada a alta. Aromas a grano tostado moderados a altos, puede tener notas a café o chocolate. Frutosidad media a alta. Puede tener aromas a melaza, regaliz, frutos secos y/o vinosos. Las versiones más fuertes pueden tener un aroma limpio y sutil a alcohol. Aroma a lúpulo bajo a ninguno. Diacetilo bajo a ninguno.",
@@ -1335,7 +1335,7 @@
 			},
 			{
 				"category": 16,
-				"id": 4,
+				"id": D,
 				"name": "Foreign Extra Stout",
 				"impression": "Una Stout muy oscura, moderadamente fuerte, bastante seca con prominentes sabores tostados.",
 				"aroma": "Moderados a altos aromas a granos tostados, a menudo con notas a café, chocolate y/o ligeramente quemadas. Frutosidad baja a media. Puede tener un aroma dulce, o a melaza, regaliz, frutos secos y/o vinosos. Las versiones más fuertes pueden tener un sutil y limpio aroma a alcohol. Aroma a lúpulo moderadamente bajo a ninguno, terroso, herbal o floral. Diacetilo bajo a ninguno.",
@@ -1356,7 +1356,7 @@
 			},
 			{
 				"category": 17,
-				"id": 1,
+				"id": A,
 				"name": "British Strong Ale",
 				"impression": "Una ale de respetable intensidad alcohólica, de guarda, tradicionalmente acondicionada en botella. Puede tener una amplia gama de interpretaciones, pero la mayoría tiene diferentes grados de riqueza a malta, lúpulos finales y amargor, ésteres frutales y tibieza de alcohol. Los jueces deben permitir una gama significativa de características; siempre y cuando la cerveza esté dentro del rango de graduación alcohólica y tenga un interesante carácter ‘británico’, estará probablemente ajustada al estilo. La malta, los sabores adjuntos y la intensidad pueden variar ampliamente, pero cualquier combinación debe resultar en una experiencia agradable al paladar.",
 				"aroma": "Ésteres frutales con dulzor de malta, a menudo con una compleja mezcla de frutos secos, caramelo, nueces, toffee y/u otros aromas de maltas especiales. Algunas notas de alcohol son aceptables, pero no deben ser calientes o a solvente. El aroma a lúpulo puede variar ampliamente, pero típicamente tiene notas terrosas, resinosas, frutales y/o florales. El balance puede variar ampliamente, pero la mayoría de los ejemplos tendrá una mezcla de malta, fruta, lúpulo y alcohol en diferentes intensidades.",
@@ -1377,7 +1377,7 @@
 			},
 			{
 				"category": 17,
-				"id": 2,
+				"id": B,
 				"name": "Old Ale",
 				"impression": "Una ale de moderada a bastante significativa graduación alcohólica, más intensa que las cervezas estándar, aunque por lo general no es tan fuerte o tan rica como un Barleywine. A menudo inclinada hacia un balance maltoso. “Debe ser una cerveza cálida del tipo que es mejor beber en medias pintas junto al calor del fuego en una noche fría de invierno” - Michael Jackson.",
 				"aroma": "Maltosidad dulce con ésteres frutales, a menudo con una compleja mezcla de frutos secos, vinosa, acaramelada, a melaza, nuez, toffee, ligero jarabe de melaza y/u otros aromas de maltas especiales. Algunas notas de alcohol y oxidativas son aceptables, similares a las encontradas en el Jerez o el Oporto. Aromas a lúpulo no suelen estar presentes debido al envejecimiento prolongado.",
@@ -1398,7 +1398,7 @@
 			},
 			{
 				"category": 17,
-				"id": 3,
+				"id": C,
 				"name": "Wee Heavy",
 				"impression": "Rica, maltosa, dextrinosa y usualmente a caramelo dulce, estas cervezas pueden dar la impresión que son sugestivas de un postre. Sabores secundarios complejos a malta y alcohol impiden una cualidad unidimensional. La intensidad y maltosidad pueden variar, pero no deben ser empalagosas o a jarabe.",
 				"aroma": "Profundamente maltosa, con un fuerte componente a caramelo. Aromas secundarios ligeramente ahumados también pueden estar presentes, añadiendo complejidad; pero el humo de turba es inapropiado. El diacetilo debe ser de bajo a ninguno. Bajos a moderados ésteres y alcohol están a menudo presentes en las versiones más fuertes. El lúpulo es de muy bajo a ninguno, pudiendo ser ligeramente terroso o floral.",
@@ -1419,7 +1419,7 @@
 			},
 			{
 				"category": 17,
-				"id": 4,
+				"id": D,
 				"name": "English Barleywine",
 				"impression": "Un muestrario de riqueza maltosa, complejidad y sabores intensos. Masticable y rica en cuerpo, con alcohol cálido, una agradable frutosidad o interesante lúpulo. Cuando es envejecida, puede tomar sabores como a Oporto. Como un sorbete de invierno.",
 				"aroma": "Muy rico y fuertemente maltoso, a menudo con un aroma como a caramelo en las versiones más oscuras, o un carácter ligero a toffee en las versiones más pálidas. Puede tener una moderada a fuerte frutosidad, a menudo con un carácter a frutos oscuros o secos, en particular en las versiones oscuras. El aroma a lúpulo puede variar de leve a asertivo, típicamente floral, terroso o como a mermelada. Los aromáticos a alcohol pueden ser bajos a moderados, pero son suaves y redondeados. La intensidad de estos compuestos aromáticos a menudo disminuye con la edad. El aroma puede tener un carácter rico que incluye pan, tostado, caramelo y/o melaza. Las versiones envejecidas puede tener una cualidad a Jerez, posiblemente aromáticos vinosos o como a Oporto, y generalmente aromas a malta generalmente más apagados.",
@@ -1440,7 +1440,7 @@
 			},
 			{
 				"category": 18,
-				"id": 1,
+				"id": A,
 				"name": "Blonde Ale",
 				"impression": "Una cerveza artesanal americana fácil de beber y accesible, orientada a la malta, frecuentemente con interesantes notas a fruta, lúpulo o carácter de malta. Bien balanceada y limpia, es una pinta refrescante sin sabores agresivos.",
 				"aroma": "Ligero a moderado aroma a malta dulce, posiblemente con una ligera nota a pan o caramelo. Baja a moderada frutosidad es opcional, pero aceptable. Puede tener un aroma a lúpulo de bajo a medio y puede reflejar casi cualquier variedad de lúpulo aunque son comunes notas cítricas, florales, frutales y especiadas.",
@@ -1461,7 +1461,7 @@
 			},
 			{
 				"category": 18,
-				"id": 2,
+				"id": B,
 				"name": "American Pale Ale",
 				"impression": "Una ale pálida, refrescante y lupulada, todavía con suficiente soporte de malta para hacer la cerveza balanceada y bebible. La presencia limpia de lúpulo puede reflejar variedades clásicas o modernas, americanas o del Nuevo Mundo, con un amplio rango de características. Una cerveza artesanal americana pálida de intensidad promedio y orientada hacia el lúpulo, generalmente balanceada para ser más accesible que la moderna IPA Americana.",
 				"aroma": "Moderado a fuerte aroma a lúpulo de variedades americanas o del Nuevo Mundo con un amplio rango de características posibles, cítricas, florales, pináceas, resinosas, especiadas, a frutas tropicales, frutas de carozo, bayas o melón. Ninguna de estas características específicas es requerida, pero los lúpulos deberían ser evidentes. Baja a moderada maltosidad apoyando la presentación del lúpulo y que opcionalmente puede mostrar pequeñas cantidades de carácter a maltas especiales (pan, tostado, bizcocho, caramelo). Los ésteres frutales pueden variar desde moderado a ninguno. El dry- hopping (si es usado) puede añadir notas herbáceas, aunque este carácter no debería ser excesivo.",
@@ -1482,7 +1482,7 @@
 			},
 			{
 				"category": 19,
-				"id": 1,
+				"id": A,
 				"name": "American Amber Ale",
 				"impression": "Una cerveza artesanal americana de color ámbar, lupulada, de intensidad moderada, con un sabor maltoso a caramelo. El balance puede variar un poco, con algunas versiones siendo bastante maltosas y otras pueden ser agresivamente lupuladas. Las versiones lupuladas y amargas no deberían entrar en conflicto con los sabores a caramelo del perfil de la malta.",
 				"aroma": "Bajo a moderado aroma a lúpulo con características típicas de las variedades americanas o del Nuevo Mundo (cítricas, florales, pináceas, resinosas, especiadas, a frutas tropicales, frutas de carozo, bayas o melón). Un carácter cítrico es común, pero no obligatorio. Maltosidad moderadamente- baja a moderadamente-alta (por lo general con un carácter moderado a caramelo) que dará soporte, balance y a veces incluso podría enmascarar la presentación del lúpulo. Los ésteres varían de moderados a ninguno.",
@@ -1503,7 +1503,7 @@
 			},
 			{
 				"category": 19,
-				"id": 2,
+				"id": B,
 				"name": "California Common",
 				"impression": "Una cerveza ligera, frutal, con una maltosidad firme y granosa, interesantes sabores tostados y a caramelo, exhibiendo características rústicas y tradicionales a lúpulos americanos.",
 				"aroma": "Exhibe típicamente lúpulos americanos rústicos, tradicionales (a menudo con cualidades leñosas, rústicas o mentoladas) de moderada a alta intensidad. Frutosidad ligera aceptable. Bajos a moderados aromáticos de malta a caramelo y/o tostado apoyan los lúpulos.",
@@ -1524,7 +1524,7 @@
 			},
 			{
 				"category": 19,
-				"id": 3,
+				"id": C,
 				"name": "American Brown Ale",
 				"impression": "Una cerveza maltosa, pero lupulada, frecuentemente con sabores a chocolate y caramelo. El sabor a lúpulo y los complementos de aroma mejoran la percepción de la malta en lugar de enfrentarse con ella.",
 				"aroma": "Moderada maltosidad dulce a rica en aromas, con cualidades a chocolate, caramelo, nuez y/o tostado. El aroma a lúpulo es típicamente bajo a moderado, de casi cualquier variedad que complemente a la malta. Algunas interpretaciones del estilo puede presentar un aroma más fuerte a lúpulo, un carácter americano o del Nuevo Mundo (cítrico, frutal, tropical, etc.) y/o un fresco aroma a dry- hopping (todos son opcionales). Los ésteres frutales son de moderados a muy bajos. El carácter de la malta oscura es más robusto que en otras Ales Marrones, pero no llega a ser demasiado similar a una Porter. La malta y el lúpulo están generalmente balanceados.",
@@ -1545,7 +1545,7 @@
 			},
 			{
 				"category": 20,
-				"id": 1,
+				"id": A,
 				"name": "American Porter",
 				"impression": "Una cerveza maltosa, oscura y sustancial, con carácter complejo y lleno de sabor a malta oscura.",
 				"aroma": "Medio-ligero a medio-fuerte aroma de malta oscura a menudo con un ligero carácter quemado. Opcionalmente también puede mostrar un poco de carácter adicional a malta en el soporte (a grano, a pan, como a toffee, acaramelado, chocolate, café, rico y/o dulce). Aroma a lúpulo de bajo a alto generalmente con carácter resinoso, terroso o floral. Puede tener dry-hopping. Ésteres frutales son de moderados a bajos.",
@@ -1566,7 +1566,7 @@
 			},
 			{
 				"category": 20,
-				"id": 2,
+				"id": B,
 				"name": "American Stout",
 				"impression": "Una Stout oscura, bastante fuerte, altamente tostada, amarga y lupulada. Tiene el cuerpo y los sabores oscuros típicos de las Stout, con un carácter a lúpulos americanos más agresivo y amargo.",
 				"aroma": "Moderado a fuerte aroma de maltas tostadas, a menudo con una cualidad a café tostado o chocolate oscuro. Aromas quemados o a carbón son aceptables en bajos niveles. Aroma a lúpulo de medio a muy bajo, a menudo con un carácter cítrico o resinoso. Ésteres medios o ausentes. Ligeros aromáticos derivados del alcohol también son opcionales.",
@@ -1587,7 +1587,7 @@
 			},
 			{
 				"category": 20,
-				"id": 3,
+				"id": C,
 				"name": "Imperial Stout",
 				"impression": "Una ale oscura intensamente saborizada, fuerte, con un amplio rango de balance e interpretaciones regionales. Malta torrada-quemada, con profundos sabores a frutos negros o secos y un final cálido y agridulce. A pesar de los sabores intensos, los componentes tienen que fundirse para crear juntos una cerveza compleja y armoniosa, no un caos .",
 				"aroma": "Rico y complejo, con cantidades variables de granos tostados, maltosidad, ésteres frutales, lúpulos y alcohol. El carácter a malta tostada puede adquirir tonos ligeros a moderadamente fuertes, a café, chocolate oscuro o ligeramente quemados. El aroma a malta puede ir desde sutil a intenso como un Barleywine. Puede mostrar un leve carácter opcional a maltas especiales (por ejemplo, caramelo), pero esto sólo debe añadir complejidad y no dominar. Los ésteres frutales pueden ser de bajos a moderadamente fuertes y pueden tornarse en un complejo carácter a frutas negras (por ejemplo, ciruelas, ciruelas pasas, uvas pasas). El aroma a lúpulo puede ser de muy bajo a bastante agresivo y puede contener cualquier variedad de lúpulo. Un carácter de alcohol puede estar presente, pero no debe ser agudo, caliente o a solvente. Las versiones envejecidas pueden tener una ligera cualidad vinosa o a Oporto, pero no debe ser ácida. El balance puede variar en función de alguno de los elementos de aroma tomando el centro de atención. No todos los posibles aromas descritos necesitan estar presentes; son posibles muchas interpretaciones. El envejecimiento afecta la intensidad, el balance y la suavidad de los aromas.",
@@ -1608,7 +1608,7 @@
 			},
 			{
 				"category": 21,
-				"id": 1,
+				"id": A,
 				"name": "American IPA",
 				"impression": "Una Ale Americana Pálida (APA) decididamente lupulada y amarga, moderadamente fuerte, exhibiendo variedades de lúpulos americanos modernos o del Nuevo Mundo. El balance es hacia el lúpulo, con un perfil de fermentación limpio, final seco y malta de soporte limpia, que permite a una creativa gama de carácter a lúpulo brillar a través de ella.",
 				"aroma": "Un prominente a intenso aroma a lúpulo con una o más características de lúpulos americanos o del Nuevo Mundo, ya sean cítricas, florales, pináceas, resinosas, especiadas, a frutas tropicales, frutas de carozo, bayas, melón, etc. Muchas versiones utilizan dry-hopping y pueden tener un aroma a lúpulo fresco adicional; esto es deseable, pero no requerido. El carácter a césped, si está presente, debe ser mínimo. Un aroma a grano-maltoso, bajo a medio-bajo y limpio se puede encontrar en el fondo. Frutosidad por levadura también puede ser detectada en algunas versiones, aunque un carácter neutro de fermentación también es aceptable. Puede estar presente una nota de alcohol restringido, pero este carácter a lo más debe ser mínimo. Cualquier carácter a lúpulos americanos o del Nuevo Mundo es aceptable; nuevas variedades de lúpulo siguen apareciendo y no deben restringir este estilo.",
@@ -1629,7 +1629,7 @@
 			},
 			{
 				"category": 21,
-				"id": 2,
+				"id": B,
 				"name": "Specialty IPA",
 				"impression": "Reconocible como IPA por su balance  ́-una cerveza orientada al lúpulo, amarga y seca- con alguna característica más actual para distinguirla de las categorías estándar. Deben tener una buena tomabilidad, independientemente de la forma. Una excesiva aspereza y pesadez son típicamente defectos, como son los fuertes choques de sabor entre el lúpulo y los otros ingredientes de especialidad.",
 				"aroma": "Un detectable aroma a lúpulo es necesario; la caracterización del lúpulo depende del tipo específico de IPA Especial. Si bien otros compuestos aromáticos pueden estar presentes; el aroma a lúpulo es normalmente el elemento más fuerte.",
@@ -1650,7 +1650,7 @@
 			},
 			{
 				"category": 22,
-				"id": 1,
+				"id": A,
 				"name": "Double IPA",
 				"impression": "Una Ale Pálida bastante fuerte, intensamente lupulada, sin la gran, rica y compleja maltosidad, dulzor residual y cuerpo del Barleywine Americano. Fuertemente lupulada, pero limpia, seca y sin aspereza. La tomabilidad es una característica importante; esta no debería ser una cerveza pesada que se tome a sorbos.",
 				"aroma": "De prominente a intenso aroma a lúpulo, que típicamente demuestra características de lúpulos americanos o del Nuevo Mundo (cítricos, florales, pináceos, resinosos, especiados, a frutas tropicales, berries, frutas de carozo, melón, etc.). La mayoría de las versiones utiliza dry-hopping y pueden tener un aroma adicional resinoso o herbal, aunque esto no es absolutamente necesario. Algo de limpia maltosidad dulce puede encontrarse en el fondo. El carácter frutal, ya sea a partir de ésteres o lúpulo, también puede detectarse en algunas versiones, aunque un carácter de fermentación neutro es típico. Usualmente puede tener algunas notas de alcohol, pero no debe tener un carácter “caliente”.",
@@ -1671,7 +1671,7 @@
 			},
 			{
 				"category": 22,
-				"id": 2,
+				"id": B,
 				"name": "American Strong Ale",
 				"impression": "Una Ale Americana Fuerte y llena de sabor, que desafía y recompensa el paladar con sabores a malta y lúpulo que satisfacen, con un amargor substancial. Los sabores son pronunciados pero complementarios, más fuertes y ricos que en una típica Ale Americana Pálida (APA) o una Ale Americana Ámbar.",
 				"aroma": "Medio a alto aroma a lúpulo, comúnmente exhibiendo notas resinosas o cítricas, aunque se pueden encontrar características asociadas a otras variedades americanas o del Nuevo Mundo (tropicales, frutas de carozo, melón, etc.). Moderada a pronunciada maltosidad que soporta el perfil lupulado, comúnmente con una presencia de caramelo medio a oscuro, posibles notas a pan o tostado y con notas de fondo ligeramente torradas y/o a perceptible chocolate en algunos ejemplos. Generalmente posee un perfil limpio a moderado de ésteres frutales. Un moderado aroma a alcohol puede ser percibido, pero no debe ser caliente, áspero o a solvente.",
@@ -1692,7 +1692,7 @@
 			},
 			{
 				"category": 22,
-				"id": 3,
+				"id": C,
 				"name": "American Barleywine",
 				"impression": "Una interpretación americana bien lupulada de la más fuerte y rica de las Ales Inglesas. La característica a lúpulo debe ser evidente en todo momento, pero no debe ser desbalanceada. La fuerza alcohólica y amargor de lúpulo a menudo se combinan para dar un final muy largo.",
 				"aroma": "Moderado a asertivo carácter a lúpulo que a menudo demuestra una amplia gama de variedades cítricas, frutales o resinosas de lúpulos del Nuevo Mundo (aunque otras variedades inglesas, como florales, terrosas o especiadas e incluso mezclas de variedades pueden ser usadas). Rica maltosidad, con un carácter que puede ser dulce, a caramelo, pan o bastante neutral. Ésteres bajos a moderadamente fuertes y aromas alcohólicos, sin embargo, la intensidad de los aromas usualmente decae con el tiempo. Los lúpulos tienden a casi igualar la malta en aroma, con el alcohol y los ésteres mucho más atrás.",
@@ -1713,7 +1713,7 @@
 			},
 			{
 				"category": 22,
-				"id": 4,
+				"id": D,
 				"name": "Wheatwine",
 				"impression": "Cerveza de rica textura, de alto alcohol, para tomar a sorbos, con significativo sabor a granos, pan y con un cuerpo limpio. El énfasis está primero en los sabores a pan y trigo con interesantes complejidades debido a la malta, el lúpulo, las características frutales de la levadura y la complejidad del alcohol.",
 				"aroma": "El aroma a lúpulo es moderado y puede representar cualquier lúpulo aromático de uso final. Moderado a moderadamente-fuerte carácter a trigo, malta y pan, usualmente con una complejidad maltosa adicional, como a miel y caramelo. Un aroma ligero y limpio a alcohol puede ser percibido. Notas frutales bajas a media-bajas pueden ser percibidas. Niveles muy bajos de diacetilo son aceptables, pero no requeridos. El carácter a levadura Weizen (banana/clavo de olor) es inapropiado.",
@@ -1734,7 +1734,7 @@
 			},
 			{
 				"category": 23,
-				"id": 1,
+				"id": A,
 				"name": "Berliner Weisse",
 				"impression": "Una cerveza de trigo alemana muy pálida, refrescante, de bajo contenido alcohólico con una acidez láctica limpia y un nivel muy alto de carbonatación. Un ligero sabor a masa de pan apoya la acidez, que no debe parecer artificial. Cualquier carácter Brettanomyces funky está restringido.",
 				"aroma": "Un carácter marcadamente ácido es dominante (moderado a moderadamente-alto). Puede tener hasta un carácter moderadamente frutal (a menudo a limón o manzana ácida). La frutosidad puede aumentar con la edad y puede desarrollarse un ligero carácter floral. Sin aroma a lúpulo. El trigo puede presentarse como masa de pan sin cocer en las versiones más frescas, y combinado con la acidez, puede sugerir pan de masa madre. Puede opcionalmente tener un restringido carácter Brettanomyces funky.",
@@ -1755,7 +1755,7 @@
 			},
 			{
 				"category": 23,
-				"id": 2,
+				"id": B,
 				"name": "Flanders Red Ale",
 				"impression": "Una ale de estilo belga, ácida, frutal, como a vino tinto, con interesantes sabores a malta de apoyo y complejidad de fruta. El final seco y tanino completa la imagen mental de un buen vino tinto.",
 				"aroma": "Complejo perfil ácido-frutal con soporte de malta que a menudo da una impresión similar al vino. La frutosidad es alta y recuerda a cerezas negras, naranjas, ciruelas o grosellas rojas. Hay a menudo notas bajas a medio-bajas a vainilla y/o chocolate. Fenoles especiados pueden estar presentes en cantidades bajas para dar complejidad. El aroma agrio varía de balanceado a intenso. Un carácter acético avinagrado prominente es inapropiado. Sin aroma a lúpulo. El diacetilo es percibido sólo en muy pequeñas cantidades, si está presente, como aroma complementario.",
@@ -1776,7 +1776,7 @@
 			},
 			{
 				"category": 23,
-				"id": 3,
+				"id": C,
 				"name": "Oud Bruin",
 				"impression": "Una Ale Marrón estilo belga maltosa, frutal, añejada y algo ácida.",
 				"aroma": "Una compleja combinación de ésteres frutales y rico carácter a malta. Ésteres medios a medio-altos que con frecuencia recuerdan pasas, ciruelas, higos, dátiles, cerezas negras o ciruelas pasas. Medio-bajo a medio-alto carácter de malta a caramelo, toffee, naranja, jarabe de melaza o chocolate. Fenoles especiados pueden estar presentes en cantidades bajas para dar complejidad. Un carácter a Jerez puede estar presente y generalmente denota un ejemplo envejecido. Puede estar presente un bajo aroma ácido, que puede aumentar ligeramente con la edad, pero que no debe aumentar hasta un carácter avinagrado/acético notable. Aroma a lúpulo ausente. El diacetilo es percibido sólo en cantidades muy pequeñas, en todo caso, como un aroma complementario.",
@@ -1797,7 +1797,7 @@
 			},
 			{
 				"category": 23,
-				"id": 4,
+				"id": D,
 				"name": "Lambic",
 				"impression": "Una cerveza salvaje belga de trigo bastante agria, a menudo moderadamente funky, con la acidez tomando el lugar del lúpulo en el balance. Tradicionalmente fermentada espontáneamente en el área de Bruselas y servida sin carbonatar, la acidez refrescante la convierte en una bebida de cafetería muy agradable.",
 				"aroma": "Un aroma decididamente ácido es a menudo dominante en los ejemplos jóvenes, pero puede llegar a ser más tenue con la edad, ya que se mezcla con aromas descritos como a establo, terroso, caprino, heno, a caballo o pelero de montura. Un suave aroma cítrico-frutal se considera favorable. Un aroma entérico, a humo, como a cigarro o queso es desfavorable. Las versiones más antiguas son comúnmente frutales con aromas de manzanas o incluso miel. Sin aroma a lúpulo.",
@@ -1818,7 +1818,7 @@
 			},
 			{
 				"category": 23,
-				"id": 5,
+				"id": E,
 				"name": "Gueuze",
 				"impression": "Una compleja cerveza salvaje belga de trigo, agradablemente ácida pero balanceada, altamente carbonatada y muy refrescante. El carácter de la fermentación espontánea puede proporcionar una complejidad muy interesante, con una amplia gama de características a establo, pelero de montura o cuero se entremezclan con sabores frutales-cítricos y acidez.",
 				"aroma": "Una mezcla moderadamente ácida con aromas descritos como a establo, cuero, terroso, caprino, heno, caballo y pelero de montura. Mientras que algunas pueden ser dominantemente agrias, el equilibrio es la clave y denota una mejor gueuze. Comúnmente frutal con aromas cítricos (a menudo pomelo), manzanas u otras frutas ligeras, ruibarbo o miel. Un aroma a madera de roble muy suave se considera favorable. Un aroma entérico, a humo, como a cigarro o queso es desfavorable. Sin aroma a lúpulo.",
@@ -1839,7 +1839,7 @@
 			},
 			{
 				"category": 23,
-				"id": 6,
+				"id": F,
 				"name": "Fruit Lambic",
 				"impression": "Una cerveza de trigo salvaje compleja, frutal, agradablemente ácida, fermentada por una variedad de microbiota belga, exhibiendo las contribuciones de las frutas mezcladas con el carácter salvaje. El tipo de fruta a veces puede ser difícil de identificar como características fermentadas y añejadas que pueden ser diferentes a los aromas y sabores reconocibles de la fruta fresca.",
 				"aroma": "El fruto especificado debe ser el aroma dominante. Un carácter ácido de bajo a moderado mezclado con aromas descritos como a establo, terroso, caprino, heno, caballo y pelero de montura (y por lo tanto debe ser reconocible como un lambic). El aroma a frutas comúnmente está bien mezclado con los otros aromas. Un aroma entérico, ahumado, como a cigarro es desfavorable. Sin aroma a lúpulo.",
@@ -1860,7 +1860,7 @@
 			},
 			{
 				"category": 24,
-				"id": 1,
+				"id": A,
 				"name": "Witbier",
 				"impression": "Una ale basada en trigo refrescante, elegante, sabrosa, de moderada intensidad.",
 				"aroma": "Moderada maltosidad dulce (a menudo con ligeras notas a miel y/o vainilla) con aromáticos de trigo ligeros, especiados y a granos, a menudo con un poco de acidez. Moderado perfume a coriandro, a menudo con una compleja nota herbal, especiada o pimentada en el fondo. Moderada frutosidad vivaz cítrica a naranja. Un bajo aroma a lúpulo especiado-herbal es opcional, pero nunca debe sobreponer a las otras características. Aromas vegetales, como a apio o jamón son inapropiados. Las especias deben mezclarse con aromas frutales, florales y dulces y no deben ser demasiado fuertes.",
@@ -1881,7 +1881,7 @@
 			},
 			{
 				"category": 24,
-				"id": 2,
+				"id": B,
 				"name": "Belgian Pale Ale",
 				"impression": "Una ale belga moderadamente maltosa, algo frutal, fácil de beber, de color cobrizo que es algo menos agresiva en el perfil de sabor que muchas otras cervezas belgas. El carácter a malta tiende a ser un poco a bizcocho con un ligero tostado, similar a la miel o al caramelo. El carácter frutal es notable y complementario al carácter de la malta. El nivel de amargor es generalmente moderado, pero puede no parecer tan alto debido al perfil sabroso de la malta.",
 				"aroma": "Moderado a malta, que puede ser una combinación de tostado, bizcocho o nuez, posiblemente con un toque de caramelo ligero o miel. Frutosidad moderada a moderadamente alta con un carácter como a naranja o pera. La intensidad del carácter a lúpulo es baja a moderada (especiada, herbal o floral), opcionalmente mezclada con un trasfondo fenólico a pimienta, especiado. El carácter a lúpulo es más bajo en el balance que la malta y la frutosidad.",
@@ -1902,7 +1902,7 @@
 			},
 			{
 				"category": 24,
-				"id": 3,
+				"id": C,
 				"name": "Bière de Garde",
 				"impression": "Una cerveza artesanal almacenada en frío (lagered) bastante fuerte, acentuada a la malta, con una gama de sabores a malta apropiados para el color. Todas son maltosas pero todavía secas, con sabores limpios y un carácter suave.",
 				"aroma": "Prominente dulzor maltoso, a menudo con un complejo carácter a malta, de intensidad ligera a moderada a rico pan tostado. Ésteres bajos a moderados. Poco o ningún aroma a lúpulo (puede ser un poco especiado, pimentado o herbal). Las versiones más pálidas aún serán maltosas, pero carecerán de los ricos aromáticos más profundos y pueden tener un poco más de lúpulo. En general bastante limpia, aunque las versiones más fuertes pueden tener una nota ligera de alcohol especiado a medida que se entibia.",
@@ -1923,7 +1923,7 @@
 			},
 			{
 				"category": 25,
-				"id": 1,
+				"id": A,
 				"name": "Belgian Blond Ale",
 				"impression": "Una ale dorada de moderada intensidad que tiene una complejidad sutil frutal-especiada a levadura belga, un poco de sabor a malta dulce y un final seco.",
 				"aroma": "Lúpulo en nariz ligeramente terroso o especiado, junto con un carácter a malta ligeramente a grano-dulce. Muestra un carácter a levadura sutil que puede incluir fenoles especiados, alcohol perfumado o como a miel, levadura y ésteres frutales (comúnmente similares a naranja o limón). Dulzor ligero que puede tener un carácter ligeramente similar al azúcar. Sutil pero complejo.",
@@ -1944,7 +1944,7 @@
 			},
 			{
 				"category": 25,
-				"id": 2,
+				"id": B,
 				"name": "Saison",
 				"impression": "Comúnmente una ale belga pálida, refrescante, altamente atenuada, moderadamente amarga, de intensidad moderada y con un final muy seco. Por lo general altamente carbonatada, utilizando granos de cereales no- cebada y especias opcionales para la complejidad, como complemento del expresivo carácter de la levadura, que es frutal, especiado y no demasiado fenólico. Las variaciones menos comunes incluyen versiones con menor o mayor contenido de alcohol, así como las versiones más oscuras con un carácter a malta adicional.",
 				"aroma": "Muy aromática, con características frutales, especiadas y lupuladas evidentes. Los ésteres pueden ser bastante altos (moderados a altos), a menudo con reminiscencias de frutas cítricas como naranjas o limones. Los lúpulos son de bajos a moderados, a menudo especiados, florales, terrosos o frutales. Las versiones más fuertes pueden tener una nota suave y especiada a alcohol (en baja intensidad). Las notas especiadas son típicamente a pimienta, en lugar de a clavo de olor, pudiendo ser de altas a moderadamente fuertes (normalmente derivadas de la levadura). La adición de hierbas o especias sutiles complementarias es admisible, pero no deben dominar. Típicamente, el carácter de la malta es ligeramente a grano y bajo en intensidad. Las versiones más oscuras y más fuertes tendrán malta más evidente, con las versiones más oscuras mostrando características asociadas con granos de ese color (tostado, bizcocho, caramelo, chocolate, etc.). En las versiones donde la acidez está presente en lugar del amargor, se puede detectar algo de carácter agrio (de bajo a moderado).",
@@ -1965,7 +1965,7 @@
 			},
 			{
 				"category": 25,
-				"id": 3,
+				"id": C,
 				"name": "Belgian Golden Strong Ale",
 				"impression": "Una ale de estilo belga, compleja efervescente y fuerte, altamente atenuada y con características notas frutales y lupuladas con preferencia a los compuestos fenólicos.",
 				"aroma": "Complejo con ésteres frutales significativos, moderadamente especiada, bajo a moderado alcohol y aromas a lúpulo. Los ésteres son una reminiscencia de frutas más ligeras como peras, naranjas o manzanas. Moderado a moderadamente-bajo especiado y fenoles pimentados. Un bajo a moderado perfume y un distintivo carácter a lúpulo floral a menudo están presente. Los alcoholes son suaves, especiados, perfumados y de baja a moderada intensidad. No hay aromas a alcohol caliente o a solvente. El carácter de la malta es ligero y suavemente a grano-dulce a casi neutro.",
@@ -1986,7 +1986,7 @@
 			},
 			{
 				"category": 26,
-				"id": 1,
+				"id": A,
 				"name": "Trappist Single",
 				"impression": "Una ale Trapense pálida, amarga, muy atenuada y bien carbonatada, que muestra un carácter a levadura Trapense frutal-especiado, un perfil de lúpulo especiado-floral, y un suave y sostenedor paladar a malta a grano-dulce.",
 				"aroma": "Carácter a levadura Trapense medio-bajo a medio- alto, mostrando un carácter frutal-especiado, junto a un lúpulo medio-bajo a medio, especiado o floral, a veces reforzado por ligeras adiciones de especias herbales y cítricas. Fondo a malta bajo a medio-bajo a grano-dulce, que puede tener una cualidad ligera a miel o azúcar. La expresión frutal puede variar ampliamente (cítricos, frutas de semilla, frutas de carozo). Ligeramente especiada, con una tendencia fenólica de la levadura encontrada en los mejores ejemplos. Características a goma de mascar son inadecuadas.",
@@ -2007,7 +2007,7 @@
 			},
 			{
 				"category": 26,
-				"id": 2,
+				"id": B,
 				"name": "Belgian Dubbel",
 				"impression": "Una ale Trapense de profundo rojo- cobrizo, moderadamente fuerte, maltosa, compleja, con ricos sabores de malta, ésteres a frutas oscuras o secas, y ligero alcohol mezclados juntos en una presentación que aunque maltosa termina bastante seca.",
 				"aroma": "Complejos y ricamente dulces aromas a malta, posiblemente con toques a chocolate, caramelo y/o tostado (pero nunca aromas torrados o quemados). Ésteres frutales moderados (generalmente incluyendo pasas y ciruelas, a veces también cerezas secas). Los ésteres incluyen a veces banana o manzana. Los fenoles especiados y los alcoholes superiores son comunes (pueden incluir ligero clavo de olor y especias, pimienta y notas como a rosas y perfume). Las cualidades especiadas pueden ser de moderadas a muy bajas. El alcohol, si está presente, es suave y nunca caliente o a solvente. Bajo a ningún aroma a lúpulo especiado, herbal o floral, por lo general ausente. La malta es más prominente en el balance con ésteres y un toque de alcohol en el soporte mezclados juntos para una armoniosa presentación.",
@@ -2028,7 +2028,7 @@
 			},
 			{
 				"category": 26,
-				"id": 3,
+				"id": C,
 				"name": "Belgian Tripel",
 				"impression": "Una ale Trapense algo especiada, seca y fuerte con un agradable sabor redondeado a malta y un amargor firme. Muy aromática, con notas especiadas, frutales y ligero alcohol que se combinan con el limpio carácter sostenedor de la malta para producir una bebida sorprendentemente bebible considerando el alto nivel de alcohol.",
 				"aroma": "Complejo bouquet con un carácter especiado de moderado a significativo, ésteres frutales moderados y aromas bajos de alcohol y lúpulo. Generosamente especiada, pimentada y a veces con fenoles como a clavo de olor. Los ésteres tienen reminiscencias a frutas cítricas como naranjas, pero a veces pueden tener un carácter suave a banana. Usualmente se encuentra un bajo pero distintivo carácter a lúpulo floral, especiado y a veces perfumado. Los alcoholes son suaves, especiados y de baja intensidad. El carácter de la malta es ligero, con una impresión suave y ligeramente a grano-dulce o similar a la miel. Los mejores ejemplos tienen una interacción sin fisuras, armoniosa entre el carácter de la levadura, los lúpulos, la malta y el alcohol.",
@@ -2049,7 +2049,7 @@
 			},
 			{
 				"category": 26,
-				"id": 4,
+				"id": D,
 				"name": "Belgian Dark Strong Ale",
 				"impression": "Una ale belga oscura, compleja y muy fuerte, con una deliciosa mezcla de riqueza de malta, sabores a frutos negros y elementos especiados. Compleja, rica, suave y peligrosa.",
 				"aroma": "Complejo aroma, con una ricamente dulce presencia de malta, ésteres significativos, alcohol y una cualidad especiada ligera a moderada. La malta es rica, fuerte y puede tener una profunda cualidad a pan tostado, a menudo con una profunda complejidad a caramelo. Los ésteres frutales van de fuertes a moderadamente bajos y pueden contener notas a pasas de uva, ciruelas, cerezas secas, higos o pasas de ciruela. Fenoles especiados pueden estar presentes, pero por lo general tienen una cualidad a pimienta, no a clavo de olor; ligera vainilla es posible. Los alcoholes son suaves, especiados, perfumados y/o como a rosas, de bajos a moderados en intensidad. El lúpulo no suele estar presente (pero un muy bajo aroma especiado, floral o herbal es aceptable). Sin aromas a malta oscura/tostada. Sin aromas a alcoholes cálidos o a solvente.",
@@ -2070,7 +2070,7 @@
 			},
 			{
 				"category": 27,
-				"id": 1,
+				"id": A,
 				"name": "Gose",
 				"impression": "Cerveza de trigo altamente carbonatada, ácida y frutal, con un carácter restringido de sal y coriandro y bajo amargor. Muy refrescante, con sabores vivos y alta atenuación.",
 				"aroma": "Ligero a moderado aroma a frutas de carozo. Ligera acidez un tanto aguda. Notable aroma a coriandro, que puede tener un característico aroma a limonada y una intensidad alta a moderada. Un carácter ligero a pan, a levadura como a masa de pan fermentada sin cocinar. La acidez y el coriandro pueden provocar una impresión brillante y viva. La sal, si es apreciable, puede ser percibida ligeramente, con un carácter a brisa marina o sólo como frescura general.",
@@ -2091,7 +2091,7 @@
 			},
 			{
 				"category": 27,
-				"id": 2,
+				"id": B,
 				"name": "Kentucky Common",
 				"impression": "Una cerveza de color oscuro, sabor ligero y un acentuado sabor a malta con un final seco e interesante carácter de sabores de malta. Refrescante debido a su alta carbonatación y con sabores suaves, es muy bebible debido a que es servida muy fresca y con bajos niveles de alcohol.",
 				"aroma": "Bajo a medio aroma a grano, similar al maíz o a la malta dulce con un ligero carácter tostado, a grano, bizcocho, pan o con acento a malta caramelo. Mediano a moderadamente-bajo aroma a lúpulo, usualmente con un carácter floral o especiado. Carácter de fermentación limpia, con posibles ésteres débiles a bayas. Bajos niveles de DMS son aceptables. Sin acidez. Balanceada hacia la malta.",
@@ -2112,7 +2112,7 @@
 			},
 			{
 				"category": 27,
-				"id": 3,
+				"id": C,
 				"name": "Lichtenhainer",
 				"impression": "Una cerveza histórica de trigo alemana ácida, ahumada y de baja densidad. Con un carácter complejo aunque refrescante debido a la alta atenuación y carbonatación, junto a un bajo amargor y moderada acidez.",
 				"aroma": "Moderadamente fuerte y fresco aroma ahumado, con ligeros toques de acidez, ésteres frutales medio-bajos, posiblemente a manzanas o limones, moderada malta a pan y grano. El carácter ahumado es más fuerte que las notas a pan y tiene un carácter ‘seco’, como el remanente de una fogata vieja, mas no como un humo “graso”.",
@@ -2133,7 +2133,7 @@
 			},
 			{
 				"category": 27,
-				"id": 4,
+				"id": D,
 				"name": "London Brown Ale",
 				"impression": "Una ale marrón oscuro, deliciosa, dulce y orientada hacia a la malta, con una complejidad de malta a caramelo, toffee y un final dulce.",
 				"aroma": "Moderado aroma a malta dulce que suele estar acompañado por un rico carácter a caramelo o toffee. Ésteres frutales bajos a medios, generalmente a frutas oscuras como ciruelas. Muy bajo a ningún aroma a lúpulo, con cualidades florales o terrosas.",
@@ -2154,7 +2154,7 @@
 			},
 			{
 				"category": 27,
-				"id": 5,
+				"id": E,
 				"name": "Piwo Grodziskie",
 				"impression": "Una ale de baja densidad, altamente carbonatada y de cuerpo ligero que combina un sabor ahumado a roble con un limpio amargor de lúpulo. Altamente consumible.",
 				"aroma": "Bajo a moderado ahumado a madera de roble es el componente aromático prominente, pero puede ser sutil y difícil de detectar. Comúnmente están presentes bajos aromas a lúpulo especiado, herbal o floral, pero estos deberían ser menores o iguales a la intensidad del ahumado. Toques de definido sabor a grano de trigo también son detectados en los mejores ejemplos. El aroma es bastante limpio, aunque con ligeros toques de ésteres a frutas de semilla (especialmente manzanas rojas inmaduras o pera) son bienvenidas. Sin acidez. Ligeras notas sulfúricas derivadas del agua pueden estar presentes.",
@@ -2175,7 +2175,7 @@
 			},
 			{
 				"category": 27,
-				"id": 6,
+				"id": F,
 				"name": "Pre-Prohibition Lager",
 				"impression": "Una Lager Pálida limpia y refrescante, pero amarga, a menudo mostrando un sabor a granos de maíz dulce. Todas las versiones de malta o a base de arroz tienen un carácter más chispeante y neutral. El alto nivel de amargor es el más grande diferenciador entre este estilo y las modernas y masivas Lager Pálidas, sin embargo, el perfil de sabor más robusto las diferencia de igual manera.",
 				"aroma": "Bajo a mediano sabor a grano, como a maíz o dulzor de malta puede ser evidente (aunque las cervezas a base de arroz son más neutrales). Aroma a lúpulo medio a moderadamente-alto, con un rango que va desde rústico a floral, a hierbas/especias. Un carácter frutal o cítrico a lúpulos modernos es inapropiado. Carácter lager limpio. Es aceptable un bajo DMS. Puede mostrar un poco de carácter a levadura, así como las modernas lagers americanas; que permite una gama de sutiles toques de levadura.",
@@ -2196,7 +2196,7 @@
 			},
 			{
 				"category": 27,
-				"id": 7,
+				"id": G,
 				"name": "Pre-Prohibition Porter",
 				"impression": "Un adaptación americana de la Porter Inglesa usando ingredientes americanos, incluyendo adjuntos.",
 				"aroma": "Una base a grano de malta con bajos niveles de malta oscura (ligeramente quemado o con notas a chocolate). Bajo aroma a lúpulo. Bajo a moderadamente bajos niveles de DMS son aceptables. Puede mostrar bajos niveles de aroma a caramelo y galletas. Ésteres muy bajos a ninguno. Ligeros aromas a adjuntos (como a regaliz, melaza) son aceptables. Diacetilo bajo a ninguno. Es aceptable un limpio perfil lager.",
@@ -2217,7 +2217,7 @@
 			},
 			{
 				"category": 27,
-				"id": 8,
+				"id": H,
 				"name": "Roggenbier",
 				"impression": "Una Dunkelweizen hecha con centeno en vez de maíz, pero con mayor cuerpo y ligero final a lúpulo",
 				"aroma": "Ligero a moderadamente especiado aroma a centeno mezclado con un suave a moderado aroma a levadura weizen (clavo de olor y ésteres frutales, a banana y cítricos). Suaves lúpulos especiados, florales o herbales son aceptables.",
@@ -2238,7 +2238,7 @@
 			},
 			{
 				"category": 27,
-				"id": 9,
+				"id": I,
 				"name": "Sahti",
 				"impression": "Una cerveza finlandesa tradicional dulce, pesada y fuerte con un sabor a centeno, enebro y bayas de enebro y también un fuerte carácter a banana y clavo de olor de la levadura.",
 				"aroma": "Altos ésteres a banana con fenoles a clavo de olor moderados a moderadamente altos. No es ácida. Puede tener un bajo a moderado carácter a enebro. Aromas a granos a",
@@ -2259,7 +2259,7 @@
 			},
 			{
 				"category": 28,
-				"id": 1,
+				"id": A,
 				"name": "Brett Beer",
 				"impression": "Muy a menudo más seca y frutal que lo que el estilo base sugiere. Las notas funky van de bajas a altas dependiendo de la edad de la cerveza y la(s) cepa(s) Brett utilizadas. El carácter funky está generalmente restringido en cervezas más jóvenes 100% Brett, pero tiende a aumentar con la edad. Puede tener una ligera acidez, aunque esto no viene del Brett.",
 				"aroma": "Variable por el estilo base. Las cervezas jóvenes fermentadas con Brett poseerán más notas frutales (por ejemplo, frutas tropicales, frutas de carozo o cítricos), pero esto es variable por la(s) cepa(s) Brett utilizadas. Para cervezas 100% Brett fuertemente lupuladas con variedades de lúpulos americanos, los sabores derivados de la fermentación son a menudo difíciles de burlar a partir de los compuestos aromáticos del lúpulo. Las cervezas más añejas 100% Brett pueden empezar a desarrollar un poco de carácter funky (por ejemplo, notas a establo, heno mojado, ligeramente terroso o ahumado), pero esta característica no debería dominar. Si la cerveza se fermenta con levadura de cerveza además de Brett, algo del carácter de la levadura primaria puede permanecer. Una leve acidez es aceptable, pero no debería ser una característica prominente.",
@@ -2280,7 +2280,7 @@
 			},
 			{
 				"category": 28,
-				"id": 2,
+				"id": B,
 				"name": "Mixed-Fermentation Sour Beer",
 				"impression": "Una versión agria y/o funky de un estilo de cerveza base.",
 				"aroma": "Variable por el estilo base. La contribución de los microorganismos no-Saccharomyces debería ser notoria a fuerte y a menudo contribuir a una agria y/o funky nota salvaje. Los mejores ejemplos mostrarán una gama de compuestos aromáticos en lugar de un solo carácter dominante. El aroma debe ser acogedor, no áspero o desagradable.",
@@ -2301,7 +2301,7 @@
 			},
 			{
 				"category": 28,
-				"id": 3,
+				"id": C,
 				"name": "Wild Specialty Beer",
 				"impression": "Una versión agria y/o funky de una cerveza de frutas, hierbas o especias, o una cerveza salvaje añejada en madera. Si es añejada en madera, la madera no debe ser la característica primaria o dominante.",
 				"aroma": "Variable por el estilo base. Debería mostrar la frutosidad, acidez y/o carácter funky de una fermentación salvaje, así como las características de los ingredientes especiales utilizados. Los mejores ejemplos mezclan los compuestos aromáticos de la fermentación con los ingredientes especiales, creando aromas que pueden ser difíciles de atribuir precisamente.",
@@ -2322,7 +2322,7 @@
 			},
 			{
 				"category": 29,
-				"id": 1,
+				"id": A,
 				"name": "Fruit Beer",
 				"impression": "Una unión armoniosa de frutas y cerveza, pero todavía reconocible como una cerveza. El carácter de la fruta debe ser evidente pero en equilibrio con la cerveza, no tan avanzado como para sugerir un producto artificial.",
 				"aroma": "Los compuestos aromáticos distintivos asociados con el fruto declarado deben ser notables en aroma; sin embargo, tenga en cuenta que algunas frutas (por ejemplo, frambuesas, cerezas) tienen aromas más fuertes y son más distintivas que otras (por ejemplo, arándanos, fresas). Permite una gama de carácter frutal y una intensidad de sutil a agresiva. Los aromáticos adicionales deben mezclar bien con cualquier aromático que sea apropiado para el estilo declarado de cerveza base.",
@@ -2343,7 +2343,7 @@
 			},
 			{
 				"category": 29,
-				"id": 2,
+				"id": B,
 				"name": "Fruit and Spice Beer",
 				"impression": "Una unión armoniosa de frutas, especias y cerveza, pero todavía reconocible como cerveza. El carácter a fruta y especias debe ser evidente pero cada uno en balance con la cerveza, no tan marcado como para sugerir un producto artificial.",
 				"aroma": "Los compuestos aromáticos distintivos asociados con la fruta y las especias declaradas deben ser notables en el aroma; sin embargo, tenga en cuenta que algunas frutas (por ejemplo, frambuesas, cerezas) y algunas especias (por ejemplo, canela, jengibre) tienen aromas más fuertes y son más distintivas que otras (por ejemplo, arándanos, fresas), permitir una variedad de carácter a frutas y especias y una intensidad de sutil a agresiva. Los aromáticos adicionales deben mezclar bien con cualquier aromático apropiados para el estilo declarado de cerveza base. El aroma a lúpulo puede estar ausente o balanceado, dependiendo del estilo base declarado.",
@@ -2364,7 +2364,7 @@
 			},
 			{
 				"category": 29,
-				"id": 3,
+				"id": C,
 				"name": "Specialty Fruit Beer",
 				"impression": "Una unión armoniosa de fruta, azúcar y cerveza, pero todavía reconocible como cerveza. El carácter de la fruta y el azúcar deben ser evidentes pero en equilibrio con la cerveza, no tan marcados como para sugerir un producto artificial.",
 				"aroma": "Igual que las Cerveza Frutada, excepto que algunos fermentables adicionales (miel, melaza, etc.) pueden añadir un componente aromático. Cualquier componente de aroma adicional presente debe estar en equilibrio con la fruta y los componentes de la cerveza, y ser una combinación agradable.",
@@ -2385,7 +2385,7 @@
 			},
 			{
 				"category": 30,
-				"id": 1,
+				"id": A,
 				"name": "Spice, Herb, or Vegetable Beer",
 				"impression": "Un enlace armonioso de EHV y cerveza, pero reconocible aún como cerveza. El carácter EHV debería ser evidente pero en balance con la cerveza, no tan marcado como para que sugiera un producto artificial.",
 				"aroma": "El carácter de las especias, hierbas y/o vegetales (EHV) particulares debería ser notorio en el aroma; de todas maneras, notar que algunos EHV (por ejemplo, jengibre, canela) tienen aromas más fuertes y son más distintivos que otros (por ejemplo, algunos vegetales), se permite un rango en el carácter EHV e intensidad, desde sutil a agresivo. El carácter individual de cada EHV(s) puede no identificarse siempre, cuando es usado en combinación. El aroma a lúpulo puede estar ausente o balanceado con el EHV dependiendo del estilo. El EHV(s) debe añadir una complejidad extra a la cerveza, pero no ser prominente como para desbalancear la presentación resultante.",
@@ -2406,7 +2406,7 @@
 			},
 			{
 				"category": 30,
-				"id": 2,
+				"id": B,
 				"name": "Autumn Seasonal Beer",
 				"impression": "Una cerveza ámbar a cobre, especiada, que a menudo tiene un cuerpo moderadamente pleno y un final ligeramente tibio que sugiere un buen acompañamiento para la temporada de frío del otoño, a menudo evocando las tradiciones del día de Acción de Gracias.",
 				"aroma": "Es posible una amplia gama de aromáticos, aunque muchos ejemplos son una reminiscencia a pastel de calabaza, batatas confitadas o cosechas similares, o platos temáticos del día de Acción de Gracias (USA). Cualquier combinación de aromáticos que sugiera la temporada de otoño es bienvenida. El estilo de cerveza base a menudo tiene un perfil a malta que apoya la presentación balanceada de los aromáticos de especias y posiblemente de otros ingredientes especiales. Fermentables adicionales (por ejemplo, azúcar morena, miel, melaza, jarabe de maple, etc.) pueden prestar sus propios aromáticos únicos. Los lúpulos aromáticos a menudo están ausentes, son tenues o ligeramente especiados. Se pueden encontrar alcoholes aromáticos en algunos ejemplos, pero este carácter debe ser restringido. El aroma global debe ser balanceado y armonioso y con frecuencia es bastante complejo y atractivo.",
@@ -2427,7 +2427,7 @@
 			},
 			{
 				"category": 30,
-				"id": 3,
+				"id": C,
 				"name": "Winter Seasonal Beer",
 				"impression": "Una cerveza más fuerte, más oscura y especiada que a menudo tiene un cuerpo pleno y un final tibio, que sugiere un buen acompañamiento para la temporada de invierno.",
 				"aroma": "Es posible una amplia gama de aromáticos, aunque muchos ejemplos evocan galletas de Navidad, pan de jengibre, pudín de Navidad tipo inglés, árboles de hoja perenne o especias de mulling. Cualquier combinación de aromáticos que sugiera la temporada de fiestas es bienvenido. El estilo de cerveza base a menudo tiene un perfil de malta que apoya la presentación balanceada de los aromáticos de especias y posiblemente otros ingredientes especiales. Fermentables adicionales (por ejemplo, miel, melaza, jarabe de maple, etc.) pueden prestar sus propios compuestos aromáticos únicos. Los lúpulos aromáticos están a menudo ausentes, son sutiles o ligeramente especiados. Algunas características a frutas (a menudo cáscara deshidratada de cítricos, o frutos secos como pasas o ciruelas) son opcionales pero aceptables. Alcoholes aromáticos se pueden encontrar en algunos ejemplos, pero estas características deben ser restringidas. El aroma global debe ser balanceado y armonioso, siendo con frecuencia bastante complejo y atractivo.",
@@ -2448,7 +2448,7 @@
 			},
 			{
 				"category": 31,
-				"id": 1,
+				"id": A,
 				"name": "Alternative Grain Beer",
 				"impression": "Una cerveza base, reforzada por, o con el carácter del grano o los granos adicionales. El carácter específico, depende en gran medida del carácter de los granos agregados.",
 				"aroma": "Igual que el estilo de cerveza base. El grano añadido prestará un carácter particular, aunque con algunos granos la cerveza lucirá simplemente un poco más granosa o nogada. El grano alternativo debe proveer mayor perfil en aroma.",
@@ -2469,7 +2469,7 @@
 			},
 			{
 				"category": 31,
-				"id": 2,
+				"id": B,
 				"name": "Alternative Sugar Beer",
 				"impression": "Una unión armoniosa de azúcar y cerveza, pero todavía reconocible como cerveza. El carácter del azúcar debe ser evidente tanto como estar en balance con la cerveza, no tan marcado como para sugerir un producto artificial.",
 				"aroma": "Igual que la cerveza base, excepto que algunos fermentables adicionales (miel, melaza, etc.) pueden añadir un componente en aroma. Cualquiera que sea el componente adicional en aroma que esté presente, debe estar en balance con los componentes de la cerveza y ser una combinación agradable.",
@@ -2490,7 +2490,7 @@
 			},
 			{
 				"category": 32,
-				"id": 1,
+				"id": A,
 				"name": "Classic Style Smoked Beer",
 				"impression": "Una cerveza acentuadamente ahumada, mostrando buen balance entre el carácter ahumado y la cerveza, sin dejar de ser agradable de beber. Los mejores ejemplos exhiben un balance en el uso del ahumado, los lúpulos y el carácter a malta.",
 				"aroma": "El aroma debe resultar un placentero balance entre el aroma esperado de la cerveza base y el ahumado impartido por el uso de maltas ahumadas. La intensidad y el carácter del ahumado y el estilo de cerveza base pueden variar, siendo uno u otro prominente en el balance. El carácter ahumado puede variar de menos a más asertivo; sin embargo, el balance en la presentación general es la clave de los ejemplos bien hechos. La calidad y características secundarias del ahumado son un reflejo de su fuente (por ejemplo, aliso, roble, madera de haya). Aromas fuertes, fenólicos, duros, a goma o a caucho quemado son inapropiados.",
@@ -2511,7 +2511,7 @@
 			},
 			{
 				"category": 32,
-				"id": 2,
+				"id": B,
 				"name": "Specialty Smoked Beer",
 				"impression": "Una cerveza ahumada potenciada que muestra un buen balance entre el carácter ahumado, el carácter de la cerveza y los ingredientes agregados, sin dejar de ser agradable de beber. Los mejores ejemplos exhiben un balance entre el ahumado, el lúpulo y el carácter de la malta.",
 				"aroma": "Debe ser un placentero balance entre el aroma esperado de la cerveza base, el ahumado impartido por el uso de maltas ahumadas y cualquier ingrediente adicional. La intensidad y el carácter del ahumado, el estilo de cerveza base y los ingredientes adicionales puede variar, siendo cualquiera de ellos más prominente en el balance. El carácter ahumado puede variar de menos a más asertivo; sin embargo, el balance en la presentación general es la clave de los ejemplos bien logrados. La calidad y características secundarias del ahumado son un reflejo de la fuente del mismo (por ejemplo, aliso, roble, madera de haya). Aromas ahumados punzantes, fenólicos, duros, gomosos o quemados son inapropiados.",
@@ -2532,7 +2532,7 @@
 			},
 			{
 				"category": 33,
-				"id": 1,
+				"id": A,
 				"name": "Wood-Aged Beer",
 				"impression": "Una mezcla armoniosa del estilo de cerveza base con las características de añejamiento en contacto con madera. Los mejores ejemplos serán suaves, sabrosos, balanceados y maduros.",
 				"aroma": "Varía según el estilo base. Un bajo a moderado aroma a madera -o roble- está usualmente presente. La madera fresca de vez en cuando puede impartir aromas “verdes” crudos, aunque este carácter no debe ser demasiado fuerte. Otros aromas opcionales incluyen baja a moderada vainilla, caramelo, toffee, pan tostado o carácter de cacao, todos característicos de la madera. Cualquier carácter de alcohol debe ser suave y balanceado, no caliente. Algún carácter de fondo a oxidación es opcional, pudiendo tomar un agradable carácter a Jerez, no a papel, cartón o similares. No debería tener carácter a alcohol añadido.",
@@ -2553,7 +2553,7 @@
 			},
 			{
 				"category": 33,
-				"id": 2,
+				"id": B,
 				"name": "Specialty Wood-Aged Beer",
 				"impression": "Una mezcla armoniosa del estilo de cerveza base con las características de añejamiento en contacto con madera (incluyendo bebidas alcohólicas previamente en contacto con la madera). Los mejores ejemplos serán suaves, sabrosos, balanceados y maduros.",
 				"aroma": "Varía según el estilo base. Un bajo a moderado aroma a madera -o roble- está usualmente presente. Otros aromas a menudo incluyen baja a moderada vainilla, caramelo, toffee, tostado o cacao, así como cualquier aroma asociado con el alcohol (licores destilados, vinos, etc.) previamente almacenados en la madera. El carácter de alcohol añadido debe ser suave y balanceado, no caliente. Un carácter de oxidación de fondo es opcional, pudiendo tomar un tono agradable a Jerez, pero no a papel o cartón o similares.",
@@ -2574,7 +2574,7 @@
 			},
 			{
 				"category": 34,
-				"id": 1,
+				"id": A,
 				"name": "Clone Beer",
 				"impression": "Basada en la cerveza clon declarada.",
 				"aroma": "Basado en la cerveza clon declarada.",
@@ -2595,7 +2595,7 @@
 			},
 			{
 				"category": 34,
-				"id": 2,
+				"id": B,
 				"name": "Mixed-Style Beer",
 				"impression": "Basada en los estilos base declarados. Así como todas las Cervezas Especiales, la combinación resultante de estilos necesita ser armoniosa, balanceada y agradable de beber.",
 				"aroma": "Basado en los estilos base declarados.",
@@ -2616,7 +2616,7 @@
 			},
 			{
 				"category": 34,
-				"id": 3,
+				"id": C,
 				"name": "Experimental Beer",
 				"impression": "Variable, pero debe ser una experiencia única.",
 				"aroma": "Variable.",
@@ -2637,7 +2637,7 @@
 			},
 			{
 				"category": 7,
-				"id": 4,
+				"id": D,
 				"name": "Kellerbier: Pale Kellerbier",
 				"impression": "Una Helles joven y fresca, pero aún maltosa, exhibiendo una completa atenuación de la malta Pils. El carácter del lúpulo (aroma, sabor y amargor) es más pronunciado y la cerveza es turbia, a menudo con un cierto nivel de diacetilo, y posiblemente algo de manzana verde y/u otras notas derivadas de la levadura. Al igual que con la tradicional Helles, la versión Keller sigue siendo una cerveza destinada a ser bebida por litro y por lo general debe seguir siendo una lager dorada ligera, refrescante y fácil de beber.",
 				"aroma": "Moderadamente-bajo a moderadamente-alto aroma a lúpulo especiado, floral o herbal. Diacetilo muy bajo a moderado, posiblemente notas muy bajas a manzana verde y otros derivados de la levadura. Grato dulzor a granos, limpio aroma a malta, con una posible baja nota de fondo a DMS.",
@@ -2658,7 +2658,7 @@
 			},
 			{
 				"category": 7,
-				"id": 5,
+				"id": E,
 				"name": "Kellerbier: Amber Kellerbier",
 				"impression": "Una cerveza joven, sin filtrar, sin pasteurizar y que se encuentra entre el color de una Helles y una Märzen, más especiada por los lúpulos y con mayor atenuación. Las interpretaciones varían en color y balance, pero se mantienen alrededor del bebible 4,8% ABV. El balance oscila entre las interpretaciones secas, especiadas y de color pálido de St. Georgen y Löwenbräu de Buttenheim, a las interpretaciones más oscuras y maltosas de Fränkische Schweiz. Este estilo es ante todo un método de producción de cervezas simples y bebibles para que los vecinos a los ingredientes locales la consuman fresca. Es importante un balance con foco en la tomabilidad.",
 				"aroma": "Moderada intensidad de malta alemana, típicamente rica, con notas de pan, algo tostadas, a ligera corteza de pan. Aroma a lúpulo moderadamente-bajo a moderado especiado y pimentado. Muy bajo a bajo diacetilo, de vez en cuando bajo a moderadamente-bajo azufre y muy bajas notas a manzana verde u otros derivados de la levadura. Aromas a malta a caramelo, bizcocho o tostado son inapropiados.",
@@ -2679,7 +2679,7 @@
 			},
 			{
 				"category": 21,
-				"id": 3,
+				"id": C,
 				"name": "Specialty IPA: Belgian IPA",
 				"impression": "Una IPA con la frutosidad y el carácter especiado derivados del uso de levadura belga. Los ejemplos de Bélgica tienden a ser de color más claro y más atenuados, similares a una Tripel que ha sido elaborada con más lúpulo. Esta cerveza tiene un perfil de sabor más complejo y puede ser más alta en alcohol que una típica IPA.",
 				"aroma": "A lúpulo moderado a alto, a menudo tropical, a frutas de carozo, cítricos o como a pino, típicos de las variedades americanas o del Nuevo Mundo. También se encuentran aromas florales y especiados indicando lúpulos europeos. Aroma a césped debido al dry hopping puede estar presente. Aroma a malta a grano-dulce, gentil, con poco o nada de caramelo. Los ésteres frutados son de moderados a altos y pueden incluir aromas a bananas, peras y manzanas. Fenoles ligeros como a clavo de olor podrían ser detectados. Algunas veces están presentes aromas como a candi sugar belga.",
@@ -2700,7 +2700,7 @@
 			},
 			{
 				"category": 21,
-				"id": 4,
+				"id": D,
 				"name": "Specialty IPA: Black IPA",
 				"impression": "Una cerveza con la sequedad, el balance hacia el lúpulo y las características de sabor de una IPA Americana, sólo que más oscura en color, pero sin sabores fuertemente torrados o quemados. El sabor de maltas más oscuras es suave y de apoyo, no un componente de sabor mayor. La tomabilidad es una característica clave.",
 				"aroma": "Un moderado a alto aroma a lúpulo, a menudo con un carácter a frutas de carozo, tropicales, cítricas, resinosas, pináceas, bayas o melón. Si utiliza dry-hopping, puede tener un aroma adicional floral, herbal o a césped, aunque esto no es requerido. Muy bajo a moderado aroma a malta oscura, que puede incluir opcionalmente notas a suave chocolate, café o tostado. Algo de dulzor maltoso limpio o ligeramente acaramelado se puede encontrar en el fondo. El carácter frutal, ya sea a partir de ésteres o de lúpulo, puede también ser detectado en algunas versiones, aunque un carácter neutro de fermentación también es aceptable.",
@@ -2721,7 +2721,7 @@
 			},
 			{
 				"category": 21,
-				"id": 5,
+				"id": E,
 				"name": "Specialty IPA: Brown IPA",
 				"impression": "Como una IPA Americana, lupulada, amarga y moderadamente fuerte, pero con algo de caramelo, chocolate, toffee y/o carácter a frutos negros de la malta, como en una Ale Americana Marrón (American Brown Ale). Conserva el final seco y el cuerpo magro que hace a las IPA tan bebibles, una IPA Marrón es un poco más sabrosa y maltosa que una IPA Americana sin ser dulce o pesada.",
 				"aroma": "Un aroma a lúpulo fresco, moderado a moderadamente fuerte, con una o más características de lúpulos americanos o del Nuevo Mundo, como frutas tropicales, frutas de carozo, cítricos, florales, especiados, a bayas, melón, pináceos, resinosos, etc. Muchas versiones utilizan dry-hopping y pueden tener un fresco aroma a lúpulo adicional; esto es deseable, pero no es requerido. El carácter a césped, si está presente, debe ser mínimo. Un dulzor maltoso medio-bajo a medio bien mezclado con la selección del lúpulo, a menudo con un carácter a chocolate, nueces, caramelo oscuro, toffee, pan tostado y/o frutos negros. La frutosidad por levadura también puede ser detectada en algunas versiones, aunque un carácter de fermentación neutro también es aceptable. Una nota de alcohol restringido puede estar presente, pero este carácter debe ser mínimo, como mucho. Cualquier carácter a lúpulos americanos o del Nuevo Mundo es aceptable; nuevas variedades de lúpulo siguen apareciendo y no deben restringir este estilo.",
@@ -2742,7 +2742,7 @@
 			},
 			{
 				"category": 21,
-				"id": 6,
+				"id": F,
 				"name": "Specialty IPA: Red IPA",
 				"impression": "Como una IPA Americana lupulada, amarga y moderadamente fuerte, pero con carácter a malta con algo de caramelo, toffee y/o frutos secos. Conserva el final seco y el cuerpo magro que hace a las IPA tan bebibles, una IPA Roja es un poco más sabrosa y maltosa que una IPA Americana sin ser dulce o pesada.",
 				"aroma": "Un moderado a fuerte aroma a lúpulo fresco con una o más características a lúpulos americanos o del Nuevo Mundo como frutas tropicales, frutas de carozo, cítricos, florales, especiados, bayas, melón, pináceos, resinosos, etc. Muchas versiones utilizan dry-hopping y pueden tener un fresco aroma a lúpulo; esto es deseable, pero no requerido. El carácter a césped debe ser mínimo, si está presente. Un dulzor maltoso medio-bajo a medio se mezcla bien con la selección de lúpulo, a menudo ofreciendo un carácter a caramelo, toffee, tostado y/o frutos negros. Frutosidad de levadura también se puede detectar en algunas versiones, aunque un carácter neutro de fermentación también es aceptable. Una nota de alcohol restringido puede estar presente, pero este carácter debe ser mínimo a lo más. Cualquier carácter a lúpulos americanos o del Nuevo Mundo es aceptable; nuevas variedades de lúpulo siguen apareciendo y no deben restringir este estilo.",
@@ -2763,7 +2763,7 @@
 			},
 			{
 				"category": 21,
-				"id": 7,
+				"id": G,
 				"name": "Specialty IPA: Rye IPA",
 				"impression": "Una Ale Americana Pálida (APA) decididamente lupulada y amarga, moderadamente fuerte, exhibiendo variedades de lúpulos americanos y del Nuevo Mundo y malta de centeno. El balance es hacia el lúpulo, con un perfil de fermentación limpio, un final seco y limpio, con malta de apoyo que permite a una gama creativa de carácter a lúpulo brillar a través de ella.",
 				"aroma": "Un prominente a intenso aroma a lúpulo con una o más características de lúpulos americanos o del Nuevo Mundo, cítricos, florales, pináceos, resinosos, especiados, a frutas tropicales, frutas de carozo, bayas, melón, etc. Muchas versiones tienen dry-hopping y pueden tener un aroma a lúpulo fresco adicional; esto es deseable, pero no requerido. El carácter a césped, si está presente, debe ser mínimo. Puede tener bajo aroma pimentado a malta de centeno. Un limpio aroma maltoso-a grano se puede encontrar en el fondo, bajo a medio-bajo. Frutosidad de la levadura también se puede detectar en algunas versiones, aunque un carácter de fermentación neutro también es aceptable. Una restringida nota de alcohol puede estar presente, pero este carácter debe ser mínimo a lo más. Cualquier carácter a lúpulos americanos o del Nuevo Mundo es aceptable; nuevas variedades de lúpulo siguen apareciendo y no deben restringir este estilo.",
@@ -2784,7 +2784,7 @@
 			},
 			{
 				"category": 21,
-				"id": 8,
+				"id": H,
 				"name": "Specialty IPA: White IPA",
 				"impression": "Una versión de IPA Americana frutal, especiada y refrescante, pero con un color más claro, menos cuerpo y ofreciendo cualquier adición distintiva de levaduras y/o especias típicas de un Witbier belga.",
 				"aroma": "Ésteres frutales moderados a banana, cítricos y quizás durazno. Puede tener un ligero a moderado aroma a especias como coriandro o pimienta ya sea de adiciones reales de especias y/o la levadura belga. El aroma a lúpulo es moderadamente-bajo a medio, por lo general de tipo americano o del Nuevo Mundo con aromas a frutas de carozo, cítricas y tropicales. Los ésteres y especias pueden reducir la percepción de aroma a lúpulo. Ligeros fenoles como a clavo de olor pueden estar presentes.",
@@ -2805,7 +2805,7 @@
 			},
 			{
 				"category": 35,
-				"id": 2,
+				"id": B,
 				"name": "Semi-Sweet Mead",
 				"impression": "Similar in balance, body, finish and flavor intensity to a semi-sweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.",
 				"aroma": "Honey aroma should be noticeable, and can have a light sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). Standard description applies for remainder of characteristics.",
@@ -2826,7 +2826,7 @@
 			},
 			{
 				"category": 35,
-				"id": 2,
+				"id": B,
 				"name": "Semi-Sweet Mead",
 				"impression": "Similar in balance, body, finish and flavor intensity to a semi-sweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.",
 				"aroma": "Honey aroma should be noticeable, and can have a light sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). Standard description applies for remainder of characteristics.",
@@ -2847,7 +2847,7 @@
 			},
 			{
 				"category": 35,
-				"id": 3,
+				"id": C,
 				"name": "Sweet Mead",
 				"impression": "Similar in balance, body, finish and flavor intensity to a well-made dessert wine (such as Sauternes), with a pleasant mixture of honey character, residual sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.",
 				"aroma": "Honey aroma should dominate, and is often moderately to strongly sweet and usually expresses the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). Standard description applies for remainder of characteristics.",
@@ -2868,7 +2868,7 @@
 			},
 			{
 				"category": 36,
-				"id": 1,
+				"id": A,
 				"name": "Cyser",
 				"impression": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Some of the best strong examples have the taste and aroma of an aged Calvados (apple brandy from northern France), while subtle, dry versions can taste similar to many fine white wines. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. Generally a good tannin-sweetness balance is desired, though very dry and very sweet examples do exist.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey and apple/cider character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The apple/cider character should be clean and distinctive; it can express a range of apple-based character ranging from a subtle fruitiness to a single varietal apple character (if declared) to a complex blend of apple aromatics. Some spicy or earthy notes may be present, as may a slightly sulfury character. The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Slight spicy phenolics from certain apple varieties are acceptable, as is a light diacetyl character from malolactic fermentation (both are optional). Standard description applies for remainder of characteristics.",
@@ -2889,7 +2889,7 @@
 			},
 			{
 				"category": 36,
-				"id": 2,
+				"id": B,
 				"name": "Pyment",
 				"impression": "In well-made examples of the style, the grape is both distinctively vinous and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. White and red versions can be quite different, and the overall impression should be characteristic of the type of grapes used and suggestive of a similar variety wine. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. Generally a good tannin-sweetness balance is desired, though very dry and very sweet examples do exist.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey and grape/wine character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The grape/wine character should be clean and distinctive; it can express a range of grape-based character ranging from a subtle fruitiness to a single varietal grape character (if declared) to a complex blend of grape or wine aromatics. Some complex, spicy, grassy or earthy notes may be present (as in wine). The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Slight spicy phenolics from certain red grape varieties are acceptable, as is a light diacetyl character from malolactic fermentation in certain white grape varieties (both are optional). Standard description applies for remainder of characteristics.",
@@ -2910,7 +2910,7 @@
 			},
 			{
 				"category": 36,
-				"id": 3,
+				"id": C,
 				"name": "Berry Mead",
 				"impression": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey and fruit character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The fruit character should display distinctive aromatics associated with the particular fruit(s); however, note that some fruit (e.g., raspberries) have stronger aromas and are more distinctive than others (e.g., blueberries, strawberries) — allow for a range of fruit character and intensity from subtle to aggressive. The fruit character should be pleasant and supportive, not artificial, raw, and/or inappropriately overpowering (considering the character of the fruit). In a blended berry mead, not all fruit may be individually identifiable or of equal intensity. The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Some tartness may be present if naturally occurring in the particular fruit(s), but should not be inappropriately intense. Standard description applies for remainder of characteristics.",
@@ -2931,7 +2931,7 @@
 			},
 			{
 				"category": 36,
-				"id": 4,
+				"id": D,
 				"name": "Stone Fruit Mead",
 				"impression": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey and fruit character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The fruit character should display distinctive aromatics associated with the particular fruit(s); however, note that some fruit (e.g., cherries) have stronger aromas and are more distinctive than others (e.g., peaches) — allow for a range of fruit character and intensity from subtle to aggressive. The fruit character should be pleasant and supportive, not artificial, raw and/or inappropriately overpowering (considering the character of the fruit). In a blended stone fruit mead, not all the fruits may be individually identifiable or of equal intensity. The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Some tartness may be present if naturally occurring in the particular fruit(s), but should not be inappropriately intense. Standard description applies for remainder of characteristics.",
@@ -2952,7 +2952,7 @@
 			},
 			{
 				"category": 36,
-				"id": 5,
+				"id": E,
 				"name": "Melomel",
 				"impression": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey and fruit character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The fruit character should display distinctive aromatics associated with the particular fruit(s); however, note that some fruit have stronger aromas and are more distinctive than others — allow for a range of fruit character and intensity from subtle to aggressive. The fruit character should be pleasant and supportive, not artificial, raw (unfermented), and/or inappropriately overpowering (considering the character of the fruit). In a blended fruit melomel, not all the fruits may be individually identifiable or of equal intensity. The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Some tartness may be present if naturally occurring in the particular fruit(s), but should not be inappropriately intense. Standard description applies for remainder of characteristics.",
@@ -2973,7 +2973,7 @@
 			},
 			{
 				"category": 37,
-				"id": 1,
+				"id": A,
 				"name": "Fruit and Spice Mead",
 				"impression": "In well-made examples of the style, the fruits and spices are both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruits and spices can result in widely different characteristics; allow for significant variation in the final product.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey, fruit, and spice character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The spice character should display distinctive aromatics associated with the particular spices; however, note that some spices (e.g., ginger, cinnamon) have stronger aromas and are more distinctive than others (e.g., chamomile, lavender) — allow for a range of spice character and intensity from subtle to aggressive. The spice character should be pleasant and supportive, not artificial and inappropriately overpowering (considering the character of the spice). The fruit character should display distinctive aromatics associated with the particular fruit; however, note that some fruits (e.g., raspberry, cherry) have stronger aromas and are more distinctive than others (e.g., peach) — allow for a range of fruit character and intensity from subtle to aggressive. The fruit character should be pleasant and supportive, not artificial, raw (unfermented) and/or inappropriately overpowering (considering the character of the fruit). In a mead with more than one fruit and/or spice, not all fruits and spices may be individually identifiable or of equal intensity. The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Some spices may produce spicy or peppery phenolics. Standard description applies for remainder of characteristics.",
@@ -2994,7 +2994,7 @@
 			},
 			{
 				"category": 37,
-				"id": 2,
+				"id": B,
 				"name": "Spice, Herb or Vegetable Mead",
 				"impression": "In well-made examples of the style, the spices are both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of spices can result in widely different characteristics; allow for a variation in the final product.",
 				"aroma": "Depending on the sweetness and strength, a subtle to distinctly identifiable honey and spice character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The spice character should display distinctive aromatics associated with the particular spices; however, note that some spices (e.g., ginger, cinnamon) have stronger aromas and are more distinctive than others (e.g., chamomile, lavender) — allow for a range of spice character and intensity from subtle to aggressive. The spice character should be pleasant and supportive, not artificial and inappropriately overpowering (considering the character of the spice). In a blended spice mead, not all spices may be individually identifiable or of equal intensity. The honey aroma should be noticeable, and can have a light to significant sweetness that may express the aroma of flower nectar. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). The bouquet should show a pleasant fermentation character, with clean and fresh aromatics being preferred. Stronger and/or sweeter versions will have higher alcohol and sweetness in the nose. Some herbs and spices may produce spicy or peppery phenolics. Standard description applies for remainder of characteristics.",
@@ -3015,7 +3015,7 @@
 			},
 			{
 				"category": 38,
-				"id": 1,
+				"id": A,
 				"name": "Braggot",
 				"impression": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.",
 				"aroma": "Depending on the sweetness, strength and base style of beer, a subtle to distinctly identifiable honey and beer character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The honey and beer/malt character should be complementary and balanced, although not always evenly balanced. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). If a base style of beer or type of malt is declared, the aroma might have a subtle to very noticeable character reflective of the beer style (different styles and malts have different intensities and characters). A hop aroma (any variety or intensity) is optional; if present, it should blend harmoniously with the other elements. Standard description applies for remainder of characteristics.",
@@ -3036,7 +3036,7 @@
 			},
 			{
 				"category": 38,
-				"id": 2,
+				"id": B,
 				"name": "Historical Mead",
 				"impression": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.",
 				"aroma": "Generally follow the standard descriptions, yet note that all the characteristics may vary. Since a wide range of entries are possible, note that the characteristics may reflect combinations of the respective elements of the various sub-categories used in this style. Refer to Category M1 for a detailed description of the character of dry, semi-sweet and sweet mead. If the entered mead is a combination of other existing mead categories, refer to the constituent categories for a detailed description of the character of the component styles.",
@@ -3057,7 +3057,7 @@
 			},
 			{
 				"category": 38,
-				"id": 3,
+				"id": C,
 				"name": "Experimental Mead",
 				"impression": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.",
 				"aroma": "Generally follow the standard descriptions, yet note that all the characteristics may vary. Since a wide range of entries are possible, note that the characteristics may reflect combinations of the respective elements of the various sub-categories used in this style. Refer to Category M1 for a detailed description of the character of dry, semi-sweet and sweet mead. If the entered mead is a combination of other existing mead categories, refer to the constituent categories for a detailed description of the character of the component styles.",
@@ -3078,7 +3078,7 @@
 			},
 			{
 				"category": 39,
-				"id": 1,
+				"id": A,
 				"name": "New World Cider",
 				"impression": "A refreshing drink of some substance – not bland or watery. Sweet ciders must not be cloying. Dry ciders must not be too austere.",
 				"aroma": "Sweet or low-alcohol ciders may have apple aroma and flavor. Dry ciders will be more wine-like with some esters. Sugar and acidity should combine to give a refreshing character. Acidity is medium to high, refreshing, but must not be harsh or biting.",
@@ -3099,7 +3099,7 @@
 			},
 			{
 				"category": 39,
-				"id": 2,
+				"id": B,
 				"name": "English Cider",
 				"impression": "Generally dry, full-bodied, austere. Complex flavor profile, long finish.",
 				"aroma": "No overt apple character, but various flavors and esters that suggest apples, particularly tannic varieties. English-style ciders commonly go through MLF (see Introduction/Aroma-and-Flavor) which produces desirable spicy/smoky, phenolic, and farmyard/old-horse characters. These flavor notes are positive but not required. If present, they must not dominate; in particular, the phenolic and farmyard notes should not be heavy. A strong farmyard character without spicy/smoky or phenolic suggests a Brettanomyces contamination, which is a fault. Mousiness is a serious fault.",
@@ -3120,7 +3120,7 @@
 			},
 			{
 				"category": 39,
-				"id": 3,
+				"id": C,
 				"name": "French Cider",
 				"impression": "Medium to sweet, full-bodied, rich.",
 				"aroma": "Fruity character/aroma. This may come from slow or arrested fermentation (in the French technique of défécation) or approximated by back-sweetening with juice. Tends to a rich fullness. MLF notes of spicy-smoky, phenolic, and farmyard are common but not required (just as with English style), and must not be pronounced. The French expect more subtle MLF character than do the English.",
@@ -3141,7 +3141,7 @@
 			},
 			{
 				"category": 39,
-				"id": 4,
+				"id": D,
 				"name": "New World Perry",
 				"impression": "Mild. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.",
 				"aroma": "There is a pear character, but not obviously fruity. It tends toward that of a young white wine. No bitterness.",
@@ -3162,7 +3162,7 @@
 			},
 			{
 				"category": 39,
-				"id": 5,
+				"id": E,
 				"name": "Traditional Perry",
 				"impression": "Tannic. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness and ropy/oily characters are serious faults.",
 				"aroma": "There is a pear character, but not obviously fruity. It tends toward that of a young white wine. Some slight bitterness.",
@@ -3183,7 +3183,7 @@
 			},
 			{
 				"category": 40,
-				"id": 1,
+				"id": A,
 				"name": "New England Cider",
 				"impression": "Substantial body and character. Typically relatively dry, but can be somewhat sweet if in balance and not containing hot alcohol.",
 				"aroma": "A flavorful cider with robust apple character, strong alcohol, and derivative flavors from sugar additives; traditionally dry.",
@@ -3204,7 +3204,7 @@
 			},
 			{
 				"category": 40,
-				"id": 2,
+				"id": B,
 				"name": "Cider with Other Fruit",
 				"impression": "Like a white wine with complex flavors. The apple character must marry with the added fruit so that neither one dominates the other.",
 				"aroma": "The cider character must be present and must fit with the other fruits. It is a fault if the added fruit(s) completely dominate; a judge might ask, Would this be different if neutral spirits replaced the cider? A fruit cider should not be like an alco-pop. Oxidation is a fault.",
@@ -3225,7 +3225,7 @@
 			},
 			{
 				"category": 40,
-				"id": 3,
+				"id": C,
 				"name": "Applewine",
 				"impression": "Typically like a dry white wine, balanced, and with low astringency and bitterness.",
 				"aroma": "Comparable to a New World Cider. Cider character must be distinctive. Very dry to sweet, although often dry.",
@@ -3246,7 +3246,7 @@
 			},
 			{
 				"category": 40,
-				"id": 4,
+				"id": D,
 				"name": "Ice Cider",
 				"impression": "",
 				"aroma": "Fruity, smooth, sweet-tart. Acidity must be enough to prevent it being cloying.",
@@ -3267,7 +3267,7 @@
 			},
 			{
 				"category": 40,
-				"id": 5,
+				"id": E,
 				"name": "Cider with Herbs/Spices",
 				"impression": "Like a white wine with complex flavors. The apple character must marry with the botanicals and give a balanced result.",
 				"aroma": "The cider character must be present and must fit with the botanicals. As with a fruit cider, it is a fault if the botanicals dominate; a judge might ask, Would this be different if neutral spirits replaced the cider? Oxidation of either the base cider or the additions is a fault.",
@@ -3288,7 +3288,7 @@
 			},
 			{
 				"category": 40,
-				"id": 6,
+				"id": F,
 				"name": "Specialty Cider/Perry",
 				"impression": "",
 				"aroma": "The cider character must always be present, and must fit with added ingredients. If a spirit barrel was used, the character of the spirit (rum, whiskey, etc.) must be no more than just recognizable; it must not be a substantial element of the flavor.",
